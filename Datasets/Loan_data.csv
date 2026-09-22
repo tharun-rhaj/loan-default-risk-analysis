@@ -1,0 +1,1001 @@
+﻿Application_ID,Customer_ID,Application_Date,Applicant_Age,Employment,Annual_Income_INR,Loan_Amount_INR,Credit_Score,Previous_Loans,Existing_Debt_INR,Loan_Term_Months,Debt_to_Income_Ratio,Interest_Rate_Pct,Loan_Purpose,Education,Branch,Approval_Status,Default_Status,Risk_Category
+LOAN20001,CUST10001,05-08-2025,43,Salaried,488800,122000,626,0,320200,60,0.707,11.49,Education,Postgraduate,Kochi,Rejected,Not Applicable,High Risk
+LOAN20002,CUST10002,29-07-2023,37,Salaried,23994,166000,588,1,247200,48,0.738,12.36,Personal,Graduate,Pune,Rejected,Not Applicable,High Risk
+LOAN20003,CUST10003,30-05-2023,44,Self-Employed,755300,358000,659,0,268200,72,0.441,10.82,Medical,Graduate,Ahmedabad,Approved,Default,Medium Risk
+LOAN20004,CUST10004,31-01-2023,53,Business Owner,1490000,364000,770,1,596500,60,0.454,7.97,Personal,Postgraduate,Kochi,Rejected,Not Applicable,Medium Risk
+LOAN20005,CUST10005,03-09-2024,36,Salaried,230500,58000,676,2,89500,60,0.442,9.92,Personal,Postgraduate,Hyderabad,Rejected,Not Applicable,Medium Risk
+LOAN20006,CUST10006,20-04-2025,36,Contract,467900,301000,611,1,149200,36,0.551,12.58,Home,Graduate,Kochi,Approved,No Default,High Risk
+LOAN20007,CUST10007,29-10-2023,54,Salaried,525100,77000,649,1,324700,84,0.64,11.94,Business,Postgraduate,Hyderabad,Rejected,Not Applicable,High Risk
+LOAN20008,CUST10008,20-08-2025,46,Self-Employed,894400,193000,647,1,61800,60,0.116,10.27,Education,Graduate,Hyderabad,Rejected,Not Applicable,High Risk
+LOAN20009,CUST10009,14-05-2025,33,Business Owner,867400,175000,698,2,239500,72,0.314,10.26,Personal,High School,Chennai Central,Rejected,Not Applicable,Medium Risk
+LOAN20010,CUST10010,31-12-2024,43,Contract,308600,78000,579,3,78500,36,0.342,13.12,Medical,Diploma,Kolkata,Approved,No Default,High Risk
+LOAN20011,CUST10011,03-02-2025,33,Business Owner,671800,179000,713,0,246600,36,0.466,10.43,Personal,Graduate,Hyderabad,Approved,No Default,Medium Risk
+LOAN20012,CUST10012,13-11-2024,33,Business Owner,534300,226000,570,0,192600,36,0.513,13.86,Personal,Diploma,Delhi,Approved,No Default,High Risk
+LOAN20013,CUST10013,14-09-2023,40,Salaried,950400,432000,693,1,347000,36,0.525,10.81,Vehicle,Diploma,Mumbai,Approved,No Default,Medium Risk
+LOAN20014,CUST10014,28-07-2025,21,Business Owner,791100,282000,709,1,114200,72,0.211,9.49,Home,Graduate,Kolkata,Approved,No Default,Medium Risk
+LOAN20015,CUST10015,26-02-2023,21,Salaried,1412200,707000,768,1,507500,12,0.897,11.17,Business,Postgraduate,Hyderabad,Rejected,Not Applicable,High Risk
+LOAN20016,CUST10016,09-01-2023,32,Contract,430100,85000,786,0,101200,24,0.34,8.54,Home,Graduate,Kochi,Rejected,Not Applicable,Low Risk
+LOAN20017,CUST10017,05-01-2023,28,Self-Employed,461200,150000,675,1,81900,36,0.271,10.2,Personal,Postgraduate,Ahmedabad,Rejected,Not Applicable,Medium Risk
+LOAN20018,CUST10018,26-04-2025,41,Business Owner,378600,170000,598,2,35300,36,0.251,12.8,Home,Graduate,Mumbai,Rejected,Not Applicable,High Risk
+LOAN20019,CUST10019,24-04-2023,29,Salaried,238600,50000,639,1,114400,36,0.557,12.38,Business,Graduate,Mumbai,Rejected,Not Applicable,High Risk
+LOAN20020,CUST10020,15-02-2025,24,Self-Employed,302900,92000,543,0,94900,60,0.379,12.49,Home,Graduate,Coimbatore,Rejected,Not Applicable,High Risk
+LOAN20021,CUST10021,15-11-2024,53,Self-Employed,736600,188000,678,1,325900,60,0.499,12.77,Vehicle,Graduate,Ahmedabad,Approved,No Default,Medium Risk
+LOAN20022,CUST10022,01-01-2025,36,Business Owner,999600,381000,667,0,493000,12,0.894,12.37,Personal,Diploma,Coimbatore,Rejected,Not Applicable,High Risk
+LOAN20023,CUST10023,24-07-2023,39,Salaried,265400,243000,697,2,131000,48,0.732,11.48,Vehicle,Graduate,Bengaluru,Rejected,Not Applicable,High Risk
+LOAN20024,CUST10024,24-01-2023,24,Salaried,871300,359000,675,0,323100,48,0.477,10.19,Vehicle,Graduate,Ahmedabad,Approved,No Default,Medium Risk
+LOAN20025,CUST10025,07-05-2024,33,Salaried,449700,97000,658,0,133800,24,0.414,11.48,Vehicle,Diploma,Mumbai,Rejected,Not Applicable,Medium Risk
+LOAN20026,CUST10026,27-08-2025,39,Salaried,608400,50000,645,2,151400,60,0.267,11.91,Education,Graduate,Delhi,Rejected,Not Applicable,High Risk
+LOAN20027,CUST10027,12-11-2024,26,Contract,960000,361000,785,1,438800,60,0.539,7.93,Vehicle,Postgraduate,Kochi,Approved,No Default,Medium Risk
+LOAN20028,CUST10028,10-02-2024,42,Salaried,872000,86000,688,2,268300,60,0.329,9.81,Vehicle,High School,Bengaluru,Approved,No Default,Medium Risk
+LOAN20029,CUST10029,13-04-2023,32,Unemployed,180400,50000,680,0,73900,60,0.471,11.64,Personal,Diploma,Kochi,Rejected,Not Applicable,Medium Risk
+LOAN20030,CUST10030,01-03-2023,35,Salaried,369700,103000,702,1,220900,12,0.904,11.23,Education,Graduate,Pune,Rejected,Not Applicable,High Risk
+LOAN20031,CUST10031,27-03-2023,32,Salaried,201800,123000,667,0,43700,84,0.306,10.78,Medical,Graduate,Ahmedabad,Rejected,Not Applicable,Medium Risk
+LOAN20032,CUST10032,05-02-2025,57,Business Owner,554400,288000,690,5,41900,60,0.19,8.4,Vehicle,High School,Bengaluru,Approved,No Default,Medium Risk
+LOAN20033,CUST10033,07-11-2024,38,Self-Employed,585500,188000,689,0,241200,72,0.469,10.9,Home,Graduate,Mumbai,Rejected,Not Applicable,Medium Risk
+LOAN20034,CUST10034,07-01-2024,27,Self-Employed,403400,118000,544,0,77900,12,0.498,13.36,Vehicle,Graduate,Kochi,Rejected,Not Applicable,High Risk
+LOAN20035,CUST10035,09-11-2024,46,Self-Employed,608400,255000,655,1,25000,72,0.114,12.42,Business,Graduate,Chennai Central,Approved,No Default,Medium Risk
+LOAN20036,CUST10036,18-08-2024,26,Business Owner,812400,407000,741,0,497400,60,0.72,11.24,Home,Graduate,Chennai Central,Approved,Default,High Risk
+LOAN20037,CUST10037,27-08-2025,40,Salaried,509000,212000,668,2,112400,60,0.31,8.58,Personal,Postgraduate,Kolkata,Approved,No Default,Medium Risk
+LOAN20038,CUST10038,21-07-2023,21,Unemployed,150200,69000,499,0,90800,24,0.847,15.45,Personal,Diploma,Hyderabad,Rejected,Not Applicable,High Risk
+LOAN20039,CUST10039,24-08-2024,25,Unemployed,222500,129000,580,0,93300,60,0.541,13.48,Home,High School,Kolkata,Rejected,Not Applicable,High Risk
+LOAN20040,CUST10040,30-03-2023,40,Self-Employed,801100,384000,782,0,372900,84,0.541,8.86,Business,Diploma,Bengaluru,Approved,No Default,Medium Risk
+LOAN20041,CUST10041,12-03-2024,45,Salaried,336000,50000,722,1,92900,60,0.31,8.98,Vehicle,Graduate,Mumbai,Approved,No Default,Medium Risk
+LOAN20042,CUST10042,30-04-2023,40,Business Owner,1541300,374000,761,2,308400,60,0.253,8.09,Education,Graduate,Coimbatore,Rejected,Not Applicable,Low Risk
+LOAN20043,CUST10043,05-06-2023,37,Salaried,540800,266000,726,1,178500,84,0.404,10.09,Business,High School,Pune,Approved,No Default,Medium Risk
+LOAN20044,CUST10044,30-08-2025,35,Salaried,572200,50000,656,2,105700,48,0.208,9.12,Personal,Graduate,Delhi,Approved,No Default,Medium Risk
+LOAN20045,CUST10045,03-02-2024,23,Salaried,796600,333000,604,0,184100,60,0.319,11.05,Business,Graduate,Delhi,Rejected,Not Applicable,High Risk
+LOAN20046,CUST10046,30-11-2024,31,Salaried,634200,210000,632,1,146900,48,0.318,11.82,Personal,Diploma,Ahmedabad,Rejected,Not Applicable,High Risk
+LOAN20047,CUST10047,07-07-2023,33,Contract,699700,264000,750,1,112900,72,0.229,8.13,Personal,Postgraduate,Bengaluru,Approved,No Default,Low Risk
+LOAN20048,CUST10048,12-02-2025,49,Business Owner,898700,101000,688,1,137000,24,0.213,9.13,Business,Graduate,Mumbai,Approved,Default,Medium Risk
+LOAN20049,CUST10049,21-02-2023,41,Business Owner,583600,215000,659,0,296700,60,0.589,10.49,Home,Diploma,Bengaluru,Rejected,Not Applicable,Medium Risk
+LOAN20050,CUST10050,13-10-2024,21,Salaried,674400,188000,670,1,104400,60,0.216,10.42,Personal,High School,Pune,Approved,No Default,Medium Risk
+LOAN20051,CUST10051,14-06-2024,41,Salaried,327500,121000,758,1,9500,60,0.107,8.22,Personal,Graduate,Hyderabad,Approved,No Default,Low Risk
+LOAN20052,CUST10052,24-04-2024,34,Salaried,597300,255000,768,0,272100,60,0.546,10.24,Home,Diploma,Hyderabad,Approved,No Default,Medium Risk
+LOAN20053,CUST10053,09-08-2024,31,Unemployed,202000,131000,703,0,175100,72,0.985,12.29,Vehicle,Graduate,Mumbai,Rejected,Not Applicable,High Risk
+LOAN20054,CUST10054,18-08-2023,44,Salaried,513100,323000,662,0,108800,84,0.308,10.67,Home,Graduate,Chennai Central,Rejected,Not Applicable,Medium Risk
+LOAN20055,CUST10055,25-04-2024,48,Contract,416300,115000,653,1,8800,24,0.166,10.26,Personal,Diploma,Chennai Central,Rejected,Not Applicable,Medium Risk
+LOAN20056,CUST10056,10-05-2023,47,Self-Employed,262600,50000,553,1,53000,48,0.252,11.02,Personal,High School,Pune,Rejected,Not Applicable,High Risk
+LOAN20057,CUST10057,24-02-2023,30,Salaried,435700,179000,745,0,255000,12,1.018,13.65,Medical,Graduate,Mumbai,Approved,No Default,High Risk
+LOAN20058,CUST10058,28-09-2023,35,Business Owner,818700,359000,631,1,409500,36,0.652,13.13,Home,Graduate,Ahmedabad,Approved,No Default,High Risk
+LOAN20059,CUST10059,17-08-2025,41,Self-Employed,699700,246000,691,1,301500,60,0.509,10.76,Personal,Graduate,Coimbatore,Rejected,Not Applicable,Medium Risk
+LOAN20060,CUST10060,10-04-2023,48,Contract,270400,50000,562,3,67900,72,0.285,11.95,Education,Postgraduate,Chennai Central,Rejected,Not Applicable,High Risk
+LOAN20061,CUST10061,10-03-2023,33,Contract,812900,29999,642,1,264900,72,0.408,12.23,Personal,Graduate,Pune,Rejected,Not Applicable,High Risk
+LOAN20062,CUST10062,29-06-2025,36,Salaried,374100,176000,611,0,0,24,0.244,11.15,Personal,Graduate,Chennai Central,Approved,No Default,High Risk
+LOAN20063,CUST10063,26-10-2023,27,Salaried,903000,390000,675,1,420400,24,0.702,12.49,Personal,Graduate,Kochi,Approved,No Default,High Risk
+LOAN20064,CUST10064,27-08-2025,26,Self-Employed,795500,278000,658,0,389200,60,0.563,11.04,Business,Graduate,Kolkata,Approved,No Default,Medium Risk
+LOAN20065,CUST10065,12-06-2024,46,Contract,324700,50000,598,1,193600,60,0.629,12.15,Business,Graduate,Delhi,Rejected,Not Applicable,High Risk
+LOAN20066,CUST10066,20-12-2023,52,Salaried,1329400,537000,795,4,232700,36,0.315,7.92,Home,Diploma,Pune,Approved,No Default,Low Risk
+LOAN20067,CUST10067,19-09-2024,37,Self-Employed,365400,50000,586,0,34100,72,0.117,11.03,Vehicle,Graduate,Bengaluru,Rejected,Not Applicable,High Risk
+LOAN20068,CUST10068,01-06-2023,48,Self-Employed,1007400,243000,721,1,412000,72,0.453,10.27,Personal,Graduate,Mumbai,Rejected,Not Applicable,Medium Risk
+LOAN20069,CUST10069,26-11-2023,42,Business Owner,1265700,432000,805,2,607000,48,0.574,10.08,Vehicle,Diploma,Ahmedabad,Approved,No Default,Medium Risk
+LOAN20070,CUST10070,26-04-2023,32,Salaried,410900,97000,633,0,194200,72,0.514,12.65,Home,Postgraduate,Bengaluru,Approved,No Default,High Risk
+LOAN20071,CUST10071,25-06-2024,42,Business Owner,1527700,664000,724,2,255100,36,0.321,10.4,Personal,Graduate,Hyderabad,Approved,No Default,Medium Risk
+LOAN20072,CUST10072,19-11-2023,53,Contract,392700,115000,622,2,47200,60,0.181,10.04,Vehicle,Graduate,Mumbai,Approved,Default,High Risk
+LOAN20073,CUST10073,16-07-2024,38,Salaried,651300,342000,749,2,259300,48,0.534,9.52,Vehicle,Postgraduate,Coimbatore,Approved,No Default,Medium Risk
+LOAN20074,CUST10074,25-07-2024,54,Salaried,642500,144000,694,2,161600,24,0.377,10.89,Business,Graduate,Mumbai,Approved,No Default,Medium Risk
+LOAN20075,CUST10075,17-08-2023,21,Unemployed,192400,50000,551,3,64800,72,0.384,13.69,Vehicle,Postgraduate,Kolkata,Rejected,Not Applicable,High Risk
+LOAN20076,CUST10076,09-02-2025,46,Salaried,836800,342000,729,3,272200,48,0.436,10.31,Home,Graduate,Chennai Central,Rejected,Not Applicable,Medium Risk
+LOAN20077,CUST10077,26-12-2023,39,Contract,648100,298000,598,1,354900,60,0.649,12.48,Home,Graduate,Mumbai,Approved,No Default,High Risk
+LOAN20078,CUST10078,05-01-2023,35,Self-Employed,279900,177000,676,1,103200,36,0.602,10.51,Business,Graduate,Coimbatore,Rejected,Not Applicable,High Risk
+LOAN20079,CUST10079,28-01-2023,39,Salaried,1060400,508000,746,1,538000,12,1.036,12,Medical,Postgraduate,Bengaluru,Rejected,Not Applicable,High Risk
+LOAN20080,CUST10080,04-02-2025,21,Contract,199400,51000,599,0,19200,24,0.228,10.52,Personal,Diploma,Pune,Rejected,Not Applicable,High Risk
+LOAN20081,CUST10081,30-12-2023,36,Salaried,930700,274000,665,2,525000,48,0.641,12.06,Vehicle,Graduate,Bengaluru,Approved,No Default,High Risk
+LOAN20082,CUST10082,06-04-2024,42,Self-Employed,1112900,419000,670,0,222800,60,0.282,11.17,Medical,Graduate,Chennai Central,Approved,No Default,Medium Risk
+LOAN20083,CUST10083,19-08-2023,53,Salaried,335900,50000,683,2,72900,36,0.27,10.04,Personal,Graduate,Chennai Central,Approved,No Default,Medium Risk
+LOAN20084,CUST10084,30-01-2024,33,Self-Employed,532000,101000,730,3,85600,60,0.203,7.73,Business,Graduate,Kolkata,Rejected,Not Applicable,Medium Risk
+LOAN20085,CUST10085,25-08-2025,30,Salaried,333500,231000,618,2,136400,60,0.56,11.81,Personal,Diploma,Delhi,Rejected,Not Applicable,High Risk
+LOAN20086,CUST10086,18-05-2025,33,Salaried,511400,150000,696,1,113500,60,0.287,10.41,Vehicle,Graduate,Kochi,Approved,No Default,Medium Risk
+LOAN20087,CUST10087,12-12-2024,47,Unemployed,177000,156000,464,1,80600,48,0.686,15.87,Vehicle,High School,Hyderabad,Rejected,Not Applicable,High Risk
+LOAN20088,CUST10088,23-04-2025,41,Salaried,824400,102000,669,0,530300,72,0.666,12.17,Home,Postgraduate,Pune,Rejected,Not Applicable,High Risk
+LOAN20089,CUST10089,28-09-2023,33,Self-Employed,1215400,679000,727,0,186000,48,0.301,10.63,Education,High School,Delhi,Rejected,Not Applicable,Medium Risk
+LOAN20090,CUST10090,30-04-2025,43,Salaried,1108000,404000,678,0,575600,48,0.622,11.66,Personal,Postgraduate,Kolkata,Rejected,Not Applicable,High Risk
+LOAN20091,CUST10091,31-10-2023,39,Business Owner,597800,305000,622,1,381200,36,0.815,13.42,Business,Graduate,Coimbatore,Rejected,Not Applicable,High Risk
+LOAN20092,CUST10092,18-01-2024,48,Salaried,512800,262000,634,3,25200,36,0.232,11.3,Personal,Graduate,Coimbatore,Approved,No Default,High Risk
+LOAN20093,CUST10093,11-07-2024,31,Unemployed,120000,50000,589,2,48800,12,0.866,13.02,Vehicle,Graduate,Chennai Central,Rejected,Not Applicable,High Risk
+LOAN20094,CUST10094,28-01-2023,35,Salaried,385100,214000,648,3,91000,60,0.355,10.5,Home,Graduate,Delhi,Rejected,Not Applicable,High Risk
+LOAN20095,CUST10095,02-06-2024,34,Salaried,901000,99000,585,1,43500,36,0.088,10.33,Home,Graduate,Mumbai,Rejected,Not Applicable,High Risk
+LOAN20096,CUST10096,13-01-2025,23,Salaried,888474,176000,623,1,332300,36,0.323,11.7,Vehicle,Graduate,Kolkata,Rejected,Not Applicable,High Risk
+LOAN20097,CUST10097,18-07-2023,41,Salaried,313500,124000,618,1,163500,60,0.606,11.66,Vehicle,High School,Hyderabad,Approved,No Default,High Risk
+LOAN20098,CUST10098,28-08-2024,41,Self-Employed,487600,42987,684,1,79000,36,0.347,10.63,Personal,Graduate,Hyderabad,Approved,No Default,Medium Risk
+LOAN20099,CUST10099,23-03-2023,38,Salaried,559900,221000,524,2,238700,36,0.562,13.74,Home,Diploma,Mumbai,Rejected,Not Applicable,High Risk
+LOAN20100,CUST10100,29-03-2023,36,Business Owner,895700,258000,675,1,321900,36,0.466,10.53,Medical,Diploma,Bengaluru,Rejected,Not Applicable,Medium Risk
+LOAN20101,CUST10101,25-01-2024,24,Salaried,384400,200000,629,2,194200,60,0.618,12.98,Vehicle,Diploma,Chennai Central,Rejected,Not Applicable,High Risk
+LOAN20102,CUST10102,28-11-2024,34,Salaried,695000,50000,765,1,85400,24,0.161,6.91,Business,Graduate,Ahmedabad,Approved,No Default,Low Risk
+LOAN20103,CUST10103,24-01-2025,35,Self-Employed,516200,93000,640,2,234000,48,0.5,11.19,Vehicle,Graduate,Delhi,Approved,No Default,High Risk
+LOAN20104,CUST10104,02-08-2024,30,Business Owner,777600,149000,712,0,361500,60,0.506,12.65,Home,Graduate,Ahmedabad,Approved,No Default,Medium Risk
+LOAN20105,CUST10105,02-04-2025,36,Salaried,737000,162000,700,0,308300,60,0.464,11.83,Business,Graduate,Kochi,Approved,No Default,Medium Risk
+LOAN20106,CUST10106,26-03-2024,42,Salaried,568800,270000,559,0,354000,60,0.72,12.47,Personal,Graduate,Hyderabad,Rejected,Not Applicable,High Risk
+LOAN20107,CUST10107,08-03-2024,57,Salaried,459800,145000,708,1,239500,60,0.589,10.31,Vehicle,Diploma,Delhi,Approved,No Default,Medium Risk
+LOAN20108,CUST10108,09-01-2024,40,Business Owner,742900,128000,700,2,36700,12,0.23,9.47,Vehicle,Graduate,Chennai Central,Approved,No Default,Medium Risk
+LOAN20109,CUST10109,10-03-2024,41,Self-Employed,621100,216000,699,4,225000,36,0.484,9.32,Home,Graduate,Ahmedabad,Approved,No Default,Medium Risk
+LOAN20110,CUST10110,06-07-2023,37,Salaried,474700,231000,850,2,98600,36,0.384,8.95,Personal,High School,Mumbai,Rejected,Not Applicable,Low Risk
+LOAN20111,CUST10111,20-01-2025,21,Contract,391100,50000,519,1,106500,24,0.338,13.14,Business,Graduate,Mumbai,Approved,No Default,High Risk
+LOAN20112,CUST10112,25-01-2024,38,Business Owner,1686600,254000,850,0,558200,36,0.384,7.19,Home,Graduate,Hyderabad,Approved,No Default,Low Risk
+LOAN20113,CUST10113,06-08-2023,39,Self-Employed,848200,225000,677,1,215900,36,0.347,10.61,Education,Diploma,Mumbai,Rejected,Not Applicable,Medium Risk
+LOAN20114,CUST10114,18-04-2023,63,Contract,384200,161000,649,1,98400,60,0.347,11.1,Business,Graduate,Hyderabad,Rejected,Not Applicable,High Risk
+LOAN20115,CUST10115,29-03-2025,36,Salaried,792300,284000,695,1,499600,60,0.709,10.74,Education,Postgraduate,Mumbai,Approved,No Default,High Risk
+LOAN20116,CUST10116,03-07-2024,41,Salaried,483100,231000,645,4,56900,36,0.292,11.71,Personal,Graduate,Kochi,Rejected,Not Applicable,High Risk
+LOAN20117,CUST10117,25-06-2025,38,Salaried,995700,509000,686,0,596900,60,0.707,11.71,Vehicle,Diploma,Kochi,Approved,No Default,High Risk
+LOAN20118,CUST10118,05-08-2025,26,Salaried,677100,376000,705,1,239800,36,0.546,11.64,Personal,Graduate,Hyderabad,Rejected,Not Applicable,Medium Risk
+LOAN20119,CUST10119,15-12-2023,49,Self-Employed,615500,175000,587,2,305200,36,0.594,12.45,Vehicle,Graduate,Mumbai,Rejected,Not Applicable,High Risk
+LOAN20120,CUST10120,26-02-2025,46,Contract,549000,146000,691,1,288200,60,0.582,9.55,Education,Postgraduate,Ahmedabad,Approved,No Default,Medium Risk
+LOAN20121,CUST10121,05-06-2024,46,Salaried,266800,176000,624,0,28200,12,0.841,14.38,Home,Graduate,Chennai Central,Approved,No Default,High Risk
+LOAN20122,CUST10122,26-01-2023,29,Salaried,330100,127000,591,1,122400,24,0.573,13.35,Personal,Graduate,Ahmedabad,Rejected,Not Applicable,High Risk
+LOAN20123,CUST10123,17-02-2023,52,Salaried,319700,50000,627,0,136600,48,0.468,12.62,Personal,Graduate,Bengaluru,Rejected,Not Applicable,High Risk
+LOAN20124,CUST10124,08-05-2025,24,Contract,474200,125000,711,0,140100,84,0.335,10.62,Personal,Graduate,Pune,Approved,No Default,Medium Risk
+LOAN20125,CUST10125,05-01-2024,44,Salaried,1302400,426000,717,2,761200,60,0.655,10.83,Personal,Graduate,Delhi,Approved,Default,High Risk
+LOAN20126,CUST10126,14-01-2023,60,Self-Employed,1891100,446000,813,3,900000,24,0.605,8.59,Education,Postgraduate,Delhi,Approved,No Default,High Risk
+LOAN20127,CUST10127,03-09-2024,28,Salaried,770200,394000,655,1,60900,72,0.172,9.92,Home,Postgraduate,Ahmedabad,Rejected,Not Applicable,Medium Risk
+LOAN20128,CUST10128,06-07-2023,32,Salaried,721100,191000,733,1,98900,60,0.196,9.13,Business,Postgraduate,Chennai Central,Rejected,Not Applicable,Medium Risk
+LOAN20129,CUST10129,07-06-2024,39,Unemployed,120000,50000,611,1,3000,60,0.114,10.78,Vehicle,Graduate,Hyderabad,Rejected,Not Applicable,High Risk
+LOAN20130,CUST10130,02-06-2025,33,Unemployed,158100,50000,678,1,9800,60,0.128,7.94,Education,Graduate,Delhi,Rejected,Not Applicable,Medium Risk
+LOAN20131,CUST10131,09-06-2025,22,Salaried,388500,136000,649,1,138600,48,0.449,11.12,Home,Postgraduate,Kochi,Approved,Default,High Risk
+LOAN20132,CUST10132,06-10-2023,39,Unemployed,152300,104000,613,1,23900,36,0.405,12.82,Home,Diploma,Bengaluru,Rejected,Not Applicable,High Risk
+LOAN20133,CUST10133,07-12-2023,27,Self-Employed,597800,184000,674,2,208100,60,0.415,10.63,Vehicle,Graduate,Kochi,Rejected,Not Applicable,Medium Risk
+LOAN20134,CUST10134,24-11-2023,43,Contract,353000,177000,702,0,23600,60,0.175,10.94,Business,Graduate,Mumbai,Approved,No Default,Medium Risk
+LOAN20135,CUST10135,09-11-2024,29,Salaried,219300,170000,603,1,53200,60,0.412,11.12,Business,Graduate,Bengaluru,Approved,No Default,High Risk
+LOAN20136,CUST10136,25-09-2024,53,Self-Employed,355688,358000,742,0,398700,60,0.514,10.08,Business,Postgraduate,Coimbatore,Approved,No Default,Medium Risk
+LOAN20137,CUST10137,23-06-2025,30,Self-Employed,387200,142000,638,0,147500,84,0.439,10.58,Business,Postgraduate,Chennai Central,Rejected,Not Applicable,High Risk
+LOAN20138,CUST10138,10-09-2025,35,Self-Employed,726900,50000,678,1,461800,72,0.648,10.8,Business,Graduate,Delhi,Rejected,Not Applicable,High Risk
+LOAN20139,CUST10139,29-08-2024,46,Salaried,1534400,758000,774,0,856700,72,0.649,9.09,Vehicle,Postgraduate,Chennai Central,Rejected,Not Applicable,High Risk
+LOAN20140,CUST10140,25-01-2023,26,Salaried,364700,82000,670,1,152800,60,0.466,12.67,Education,Graduate,Hyderabad,Approved,No Default,Medium Risk
+LOAN20141,CUST10141,12-06-2024,40,Salaried,168300,60000,631,0,24900,84,0.204,10.35,Business,Graduate,Pune,Approved,No Default,High Risk
+LOAN20142,CUST10142,01-03-2024,51,Business Owner,682600,78000,694,1,376600,24,0.615,10.51,Education,Diploma,Delhi,Rejected,Not Applicable,High Risk
+LOAN20143,CUST10143,29-01-2023,22,Salaried,961800,256000,801,0,609300,36,0.728,9.59,Education,Graduate,Mumbai,Rejected,Not Applicable,High Risk
+LOAN20144,CUST10144,13-08-2025,40,Self-Employed,1658900,610000,825,0,900000,48,0.644,8.65,Education,Graduate,Mumbai,Approved,No Default,High Risk
+LOAN20145,CUST10145,19-11-2023,41,Unemployed,120000,51000,621,1,11600,72,0.174,11.27,Vehicle,High School,Bengaluru,Rejected,Not Applicable,High Risk
+LOAN20146,CUST10146,02-05-2025,46,Salaried,719700,304000,666,0,475600,60,0.748,10.47,Vehicle,Diploma,Mumbai,Approved,Default,High Risk
+LOAN20147,CUST10147,09-11-2023,26,Self-Employed,518300,287000,612,0,81600,60,0.277,10.43,Home,Diploma,Kolkata,Rejected,Not Applicable,High Risk
+LOAN20148,CUST10148,06-08-2024,25,Salaried,538900,180000,726,1,257400,24,0.652,11.32,Vehicle,Graduate,Ahmedabad,Rejected,Not Applicable,High Risk
+LOAN20149,CUST10149,27-09-2023,43,Contract,1575600,567000,796,1,900000,36,0.705,9.2,Business,Graduate,Bengaluru,Approved,No Default,High Risk
+LOAN20150,CUST10150,31-01-2025,41,Salaried,275600,51000,729,1,57400,60,0.249,8.37,Personal,High School,Chennai Central,Approved,No Default,Medium Risk
+LOAN20151,CUST10151,22-10-2023,41,Business Owner,884400,514000,668,1,534500,36,0.806,11.66,Business,Postgraduate,Kolkata,Rejected,Not Applicable,High Risk
+LOAN20152,CUST10152,17-10-2024,41,Contract,554200,53000,637,1,144600,36,0.294,11.39,Home,Diploma,Delhi,Rejected,Not Applicable,High Risk
+LOAN20153,CUST10153,24-02-2025,31,Contract,745700,352000,578,0,480100,36,0.814,14.5,Home,Graduate,Delhi,Rejected,Not Applicable,High Risk
+LOAN20154,CUST10154,11-08-2023,40,Business Owner,820700,414000,674,0,149300,36,0.36,11.18,Personal,Graduate,Kochi,Rejected,Not Applicable,Medium Risk
+LOAN20155,CUST10155,16-03-2023,41,Self-Employed,751300,417000,739,5,443900,60,0.706,9.69,Vehicle,High School,Hyderabad,Rejected,Not Applicable,High Risk
+LOAN20156,CUST10156,12-04-2023,31,Self-Employed,536900,248000,637,0,30400,36,0.223,9.55,Personal,Graduate,Delhi,Rejected,Not Applicable,High Risk
+LOAN20157,CUST10157,15-06-2024,57,Contract,503900,206000,680,2,232600,60,0.549,11.96,Business,Graduate,Kolkata,Rejected,Not Applicable,Medium Risk
+LOAN20158,CUST10158,20-09-2024,43,Self-Employed,549600,179000,654,1,229200,24,0.586,11.84,Personal,Graduate,Pune,Rejected,Not Applicable,Medium Risk
+LOAN20159,CUST10159,16-11-2024,26,Salaried,764100,177000,713,0,228200,60,0.35,9.18,Medical,Graduate,Bengaluru,Approved,No Default,Medium Risk
+LOAN20160,CUST10160,03-06-2025,45,Contract,370800,178000,569,1,59300,36,0.338,12.08,Vehicle,Graduate,Bengaluru,Approved,No Default,High Risk
+LOAN20161,CUST10161,22-06-2023,28,Business Owner,938400,50000,711,1,468000,60,0.51,9.36,Education,Graduate,Bengaluru,Approved,No Default,Medium Risk
+LOAN20162,CUST10162,04-01-2023,46,Self-Employed,639000,213000,508,2,97600,60,0.226,12.44,Personal,Graduate,Coimbatore,Rejected,Not Applicable,High Risk
+LOAN20163,CUST10163,01-05-2025,50,Salaried,973500,102000,705,2,383100,36,0.43,10.26,Home,Diploma,Hyderabad,Approved,No Default,Medium Risk
+LOAN20164,CUST10164,23-04-2024,30,Self-Employed,632200,92000,583,1,124200,72,0.222,11.78,Education,Graduate,Chennai Central,Rejected,Not Applicable,High Risk
+LOAN20165,CUST10165,21-10-2024,48,Salaried,242100,50000,711,0,157300,60,0.693,11,Education,High School,Kolkata,Rejected,Not Applicable,High Risk
+LOAN20166,CUST10166,30-01-2024,42,Self-Employed,1187500,404000,769,2,74100,48,0.156,7.73,Vehicle,Graduate,Bengaluru,Approved,No Default,Low Risk
+LOAN20167,CUST10167,17-09-2024,46,Salaried,367100,148000,682,0,79000,36,0.365,10.87,Home,Postgraduate,Chennai Central,Approved,No Default,Medium Risk
+LOAN20168,CUST10168,12-04-2025,57,Self-Employed,473500,50000,741,3,53900,84,0.13,8.2,Home,Graduate,Bengaluru,Approved,No Default,Medium Risk
+LOAN20169,CUST10169,02-07-2025,36,Unemployed,154200,96000,524,2,36900,60,0.377,12.82,Personal,Postgraduate,Bengaluru,Rejected,Not Applicable,High Risk
+LOAN20170,CUST10170,16-06-2023,30,Salaried,1096700,146000,823,3,215400,36,0.245,6.65,Personal,High School,Mumbai,Approved,No Default,Low Risk
+LOAN20171,CUST10171,27-10-2023,29,Unemployed,120000,61000,624,0,54700,36,0.636,11,Personal,Diploma,Kolkata,Rejected,Not Applicable,High Risk
+LOAN20172,CUST10172,19-09-2025,30,Salaried,2500000,945000,849,0,900000,60,0.441,8.1,Personal,Postgraduate,Ahmedabad,Rejected,Not Applicable,Medium Risk
+LOAN20173,CUST10173,28-04-2023,37,Contract,735100,246000,730,0,341000,60,0.533,11.26,Home,Graduate,Mumbai,Approved,No Default,Medium Risk
+LOAN20174,CUST10174,26-05-2024,41,Business Owner,871600,407000,640,3,383900,60,0.537,11.07,Education,Diploma,Mumbai,Rejected,Not Applicable,High Risk
+LOAN20175,CUST10175,03-09-2024,41,Self-Employed,631100,193000,627,0,48800,48,0.161,9.44,Home,High School,Delhi,Rejected,Not Applicable,High Risk
+LOAN20176,CUST10176,24-02-2025,46,Business Owner,898000,470000,669,2,452000,60,0.615,11.02,Business,High School,Bengaluru,Rejected,Not Applicable,High Risk
+LOAN20177,CUST10177,24-06-2023,38,Contract,568600,170000,622,1,105600,36,0.293,11.31,Personal,Graduate,Chennai Central,Rejected,Not Applicable,High Risk
+LOAN20178,CUST10178,08-06-2023,53,Salaried,772800,269000,638,1,380400,36,0.618,11.68,Education,High School,Kolkata,Rejected,Not Applicable,High Risk
+LOAN20179,CUST10179,19-01-2024,35,Salaried,740300,273000,760,0,155800,60,0.288,8.15,Vehicle,Graduate,Bengaluru,Rejected,Not Applicable,Low Risk
+LOAN20180,CUST10180,15-08-2023,65,Self-Employed,676500,96000,662,2,201800,84,0.32,10.4,Medical,Graduate,Bengaluru,Rejected,Not Applicable,Medium Risk
+LOAN20181,CUST10181,23-07-2025,44,Business Owner,712200,308000,704,0,201000,36,0.437,10.26,Personal,Graduate,Mumbai,Approved,No Default,Medium Risk
+LOAN20182,CUST10182,07-02-2023,29,Business Owner,728200,276000,655,1,406100,48,0.659,12.24,Business,Graduate,Delhi,Approved,No Default,High Risk
+LOAN20183,CUST10183,07-04-2024,27,Business Owner,713100,90000,585,1,82100,60,0.143,10.91,Education,Postgraduate,Chennai Central,Approved,No Default,High Risk
+LOAN20184,CUST10184,06-03-2024,43,Salaried,977100,170000,730,0,414700,60,0.462,9.56,Education,Diploma,Bengaluru,Rejected,Not Applicable,Medium Risk
+LOAN20185,CUST10185,10-12-2024,36,Business Owner,1041100,184000,612,2,138300,72,0.165,9.21,Business,Diploma,Mumbai,Approved,No Default,High Risk
+LOAN20186,CUST10186,09-10-2024,45,Salaried,138200,50000,631,0,86000,60,0.703,13.3,Personal,Postgraduate,Pune,Rejected,Not Applicable,High Risk
+LOAN20187,CUST10187,14-04-2023,43,Self-Employed,87666,305000,622,2,520900,12,0.967,13.98,Personal,Graduate,Bengaluru,Rejected,Not Applicable,High Risk
+LOAN20188,CUST10188,08-09-2025,37,Salaried,622600,183000,791,1,235100,84,0.424,9.77,Personal,Postgraduate,Mumbai,Approved,No Default,Medium Risk
+LOAN20189,CUST10189,12-07-2023,30,Salaried,561900,178000,726,4,175700,60,0.379,9.96,Personal,Graduate,Delhi,Rejected,Not Applicable,Medium Risk
+LOAN20190,CUST10190,07-09-2023,23,Salaried,470500,165000,673,1,270000,72,0.634,11.46,Personal,Diploma,Ahmedabad,Rejected,Not Applicable,High Risk
+LOAN20191,CUST10191,13-01-2023,34,Salaried,972600,409000,785,0,390800,60,0.49,7.74,Education,Postgraduate,Hyderabad,Rejected,Not Applicable,Medium Risk
+LOAN20192,CUST10192,20-07-2024,47,Business Owner,1233900,130000,689,3,411600,72,0.352,8.8,Vehicle,Postgraduate,Bengaluru,Rejected,Not Applicable,Medium Risk
+LOAN20193,CUST10193,05-05-2025,40,Salaried,391300,152000,689,2,195400,24,0.715,12.4,Business,Postgraduate,Delhi,Approved,No Default,High Risk
+LOAN20194,CUST10194,19-08-2024,26,Salaried,689300,353000,699,0,341800,36,0.682,11.69,Education,Diploma,Coimbatore,Rejected,Not Applicable,High Risk
+LOAN20195,CUST10195,12-09-2024,40,Salaried,355700,50000,670,0,36700,72,0.127,10.72,Personal,Graduate,Chennai Central,Approved,No Default,Medium Risk
+LOAN20196,CUST10196,08-07-2024,42,Salaried,292400,86000,720,1,113300,36,0.49,10.84,Personal,Graduate,Mumbai,Approved,No Default,Medium Risk
+LOAN20197,CUST10197,23-01-2024,29,Salaried,419700,183000,702,3,130200,24,0.538,10.32,Medical,Diploma,Chennai Central,Approved,No Default,Medium Risk
+LOAN20198,CUST10198,12-03-2023,40,Salaried,857700,404000,720,2,82700,60,0.199,7.1,Vehicle,Graduate,Chennai Central,Rejected,Not Applicable,Medium Risk
+LOAN20199,CUST10199,13-08-2025,39,Self-Employed,1023900,306000,619,0,563400,60,0.616,12.9,Vehicle,Diploma,Delhi,Approved,No Default,High Risk
+LOAN20200,CUST10200,18-02-2025,27,Self-Employed,829000,100000,638,1,268700,36,0.369,10.28,Business,Graduate,Hyderabad,Approved,No Default,High Risk
+LOAN20201,CUST10201,24-07-2024,42,Self-Employed,917800,90000,693,1,84000,72,0.11,8.92,Business,Graduate,Ahmedabad,Approved,No Default,Medium Risk
+LOAN20202,CUST10202,30-08-2025,44,Salaried,726400,50000,697,1,332600,60,0.472,10.77,Personal,Diploma,Pune,Approved,No Default,Medium Risk
+LOAN20203,CUST10203,13-03-2024,49,Salaried,416700,134000,599,2,260000,60,0.692,12.58,Vehicle,Graduate,Mumbai,Approved,No Default,High Risk
+LOAN20204,CUST10204,13-02-2023,49,Contract,544800,96000,782,0,344300,60,0.669,9.04,Vehicle,Graduate,Mumbai,Approved,No Default,High Risk
+LOAN20205,CUST10205,29-09-2023,24,Self-Employed,951500,416000,786,0,606800,48,0.754,9.72,Personal,Graduate,Delhi,Approved,No Default,High Risk
+LOAN20206,CUST10206,20-06-2025,29,Salaried,814400,403000,733,1,416200,36,0.695,9.05,Business,Graduate,Chennai Central,Approved,No Default,High Risk
+LOAN20207,CUST10207,14-01-2023,43,Salaried,1003300,229000,722,1,47600,36,0.13,7.8,Business,Postgraduate,Ahmedabad,Approved,No Default,Medium Risk
+LOAN20208,CUST10208,06-01-2024,43,Salaried,796600,147000,686,0,192700,60,0.282,9.04,Home,Graduate,Kolkata,Rejected,Not Applicable,Medium Risk
+LOAN20209,CUST10209,22-04-2023,43,Salaried,671200,255000,634,2,358100,60,0.615,11.96,Vehicle,Diploma,Bengaluru,Rejected,Not Applicable,High Risk
+LOAN20210,CUST10210,14-01-2024,65,Salaried,947700,510000,717,3,280100,60,0.407,9.06,Vehicle,Diploma,Chennai Central,Approved,Default,Medium Risk
+LOAN20211,CUST10211,10-11-2023,44,Self-Employed,639800,203000,687,1,270500,60,0.489,10.28,Medical,Graduate,Bengaluru,Rejected,Not Applicable,Medium Risk
+LOAN20212,CUST10212,19-02-2024,49,Self-Employed,424400,57000,584,0,204300,60,0.51,12.27,Personal,Postgraduate,Pune,Approved,Default,High Risk
+LOAN20213,CUST10213,09-01-2025,48,Self-Employed,599200,181000,687,2,169700,60,0.349,11.83,Vehicle,Postgraduate,Pune,Approved,No Default,Medium Risk
+LOAN20214,CUST10214,29-04-2024,45,Business Owner,547600,245000,661,2,292100,36,0.69,12.58,Home,Graduate,Ahmedabad,Rejected,Not Applicable,High Risk
+LOAN20215,CUST10215,18-06-2023,35,Business Owner,566300,328000,566,2,136300,12,0.875,14.32,Personal,Graduate,Coimbatore,Rejected,Not Applicable,High Risk
+LOAN20216,CUST10216,06-06-2025,46,Business Owner,730500,81000,639,3,244000,72,0.354,11.37,Home,Graduate,Mumbai,Rejected,Not Applicable,High Risk
+LOAN20217,CUST10217,13-03-2025,30,Unemployed,140300,50000,552,1,85600,24,0.8,15.1,Business,Postgraduate,Pune,Rejected,Not Applicable,High Risk
+LOAN20218,CUST10218,03-09-2023,36,Salaried,489100,20000,772,2,144900,36,0.462,9.28,Personal,Postgraduate,Pune,Approved,No Default,Medium Risk
+LOAN20219,CUST10219,23-09-2023,33,Salaried,346902,50000,674,2,0,60,0.047,8.33,Vehicle,Postgraduate,Delhi,Rejected,Not Applicable,Medium Risk
+LOAN20220,CUST10220,28-04-2025,39,Salaried,628100,222000,608,1,206400,48,0.425,11.75,Vehicle,Postgraduate,Mumbai,Rejected,Not Applicable,High Risk
+LOAN20221,CUST10221,31-08-2023,61,Self-Employed,648400,84000,701,2,344200,72,0.555,9.92,Business,Postgraduate,Pune,Approved,No Default,Medium Risk
+LOAN20222,CUST10222,31-10-2024,21,Contract,299100,120000,540,1,171000,36,0.721,14,Education,Postgraduate,Delhi,Rejected,Not Applicable,High Risk
+LOAN20223,CUST10223,27-10-2023,45,Salaried,778100,147000,756,2,411800,12,0.73,10.28,Education,Diploma,Pune,Approved,No Default,High Risk
+LOAN20224,CUST10224,08-08-2025,22,Contract,694500,335000,637,1,370000,36,0.704,13.29,Medical,Graduate,Pune,Rejected,Not Applicable,High Risk
+LOAN20225,CUST10225,23-11-2023,33,Salaried,262100,50000,641,0,27200,60,0.144,9.5,Business,Diploma,Coimbatore,Approved,No Default,High Risk
+LOAN20226,CUST10226,13-06-2024,49,Contract,307000,50000,699,0,196200,36,0.696,10.6,Business,Postgraduate,Pune,Approved,No Default,High Risk
+LOAN20227,CUST10227,17-08-2024,39,Salaried,392000,101000,588,0,230900,60,0.645,12.52,Home,Diploma,Delhi,Rejected,Not Applicable,High Risk
+LOAN20228,CUST10228,26-04-2025,27,Salaried,361100,118000,579,0,77500,72,0.275,11.29,Home,Postgraduate,Pune,Approved,No Default,High Risk
+LOAN20229,CUST10229,12-01-2025,31,Self-Employed,964900,283000,672,1,112900,72,0.169,9.43,Home,Graduate,Mumbai,Approved,No Default,Medium Risk
+LOAN20230,CUST10230,08-12-2023,45,Salaried,516600,232000,728,0,355000,36,0.844,11.63,Education,Postgraduate,Bengaluru,Rejected,Not Applicable,High Risk
+LOAN20231,CUST10231,03-02-2025,31,Salaried,499400,227000,586,0,292500,48,0.706,12.75,Personal,Graduate,Chennai Central,Rejected,Not Applicable,High Risk
+LOAN20232,CUST10232,09-11-2024,40,Salaried,216700,50000,486,1,110000,60,0.557,14.67,Education,Postgraduate,Delhi,Rejected,Not Applicable,High Risk
+LOAN20233,CUST10233,07-07-2024,38,Business Owner,1062200,425000,694,2,617700,84,0.642,11.28,Personal,Graduate,Pune,Rejected,Not Applicable,High Risk
+LOAN20234,CUST10234,06-09-2023,31,Self-Employed,357500,92000,676,0,128100,84,0.397,10.96,Education,Diploma,Kolkata,Rejected,Not Applicable,Medium Risk
+LOAN20235,CUST10235,29-01-2025,59,Salaried,583500,247000,744,4,267700,36,0.613,9.99,Vehicle,Postgraduate,Mumbai,Approved,No Default,High Risk
+LOAN20236,CUST10236,07-08-2025,44,Self-Employed,740300,171000,657,0,249800,60,0.385,11.48,Medical,Postgraduate,Mumbai,Rejected,Not Applicable,Medium Risk
+LOAN20237,CUST10237,15-01-2024,21,Business Owner,1504500,639000,739,1,120700,36,0.233,9.02,Education,Graduate,Bengaluru,Approved,No Default,Medium Risk
+LOAN20238,CUST10238,08-03-2025,40,Salaried,302500,50000,714,0,160300,12,0.712,11.36,Vehicle,High School,Chennai Central,Approved,No Default,High Risk
+LOAN20239,CUST10239,15-06-2024,31,Salaried,133100,96000,531,0,47800,12,1.119,15.58,Education,Diploma,Kochi,Rejected,Not Applicable,High Risk
+LOAN20240,CUST10240,12-06-2025,47,Salaried,619300,233000,660,0,305300,48,0.595,11.82,Home,Diploma,Bengaluru,Rejected,Not Applicable,Medium Risk
+LOAN20241,CUST10241,13-05-2025,30,Salaried,1345600,600000,762,1,492400,48,0.487,9.62,Vehicle,Graduate,Pune,Approved,No Default,Medium Risk
+LOAN20242,CUST10242,16-01-2024,37,Business Owner,1419200,288000,778,1,489600,12,0.566,8.88,Vehicle,Postgraduate,Pune,Approved,No Default,Medium Risk
+LOAN20243,CUST10243,11-02-2023,43,Salaried,627000,201000,654,1,101400,60,0.23,11.2,Personal,Graduate,Mumbai,Approved,No Default,Medium Risk
+LOAN20244,CUST10244,11-12-2023,47,Self-Employed,511800,78000,663,1,118600,36,0.286,12.41,Business,Postgraduate,Ahmedabad,Approved,No Default,Medium Risk
+LOAN20245,CUST10245,21-08-2024,26,Business Owner,1153500,429000,591,2,177700,60,0.236,10.88,Personal,Graduate,Mumbai,Rejected,Not Applicable,High Risk
+LOAN20246,CUST10246,18-09-2023,35,Salaried,355300,89000,619,1,13800,36,0.131,10.1,Home,Postgraduate,Hyderabad,Rejected,Not Applicable,High Risk
+LOAN20247,CUST10247,02-11-2023,33,Self-Employed,814500,487000,715,0,508700,36,0.836,11.22,Personal,Postgraduate,Ahmedabad,Rejected,Not Applicable,High Risk
+LOAN20248,CUST10248,19-03-2025,31,Salaried,722700,318000,637,2,65400,48,0.205,9.41,Home,Graduate,Ahmedabad,Approved,No Default,High Risk
+LOAN20249,CUST10249,11-05-2025,56,Unemployed,341300,68000,598,4,104200,36,0.374,11.13,Personal,Graduate,Bengaluru,Rejected,Not Applicable,High Risk
+LOAN20250,CUST10250,28-08-2023,42,Self-Employed,2437000,1000000,850,0,900000,60,0.455,8.3,Personal,Diploma,Chennai Central,Rejected,Not Applicable,Medium Risk
+LOAN20251,CUST10251,09-11-2024,25,Business Owner,945300,359000,689,1,388500,36,0.548,10.82,Home,Graduate,Chennai Central,Approved,No Default,Medium Risk
+LOAN20252,CUST10252,09-11-2023,47,Self-Employed,507500,60000,670,1,94700,60,0.211,11.42,Business,Diploma,Hyderabad,Rejected,Not Applicable,Medium Risk
+LOAN20253,CUST10253,31-12-2024,59,Salaried,560100,99000,622,1,305300,24,0.639,12.23,Business,Graduate,Kolkata,Approved,No Default,High Risk
+LOAN20254,CUST10254,16-03-2024,48,Self-Employed,277200,86000,627,1,116200,60,0.487,12.1,Business,Graduate,Delhi,Approved,No Default,High Risk
+LOAN20255,CUST10255,21-07-2025,23,Unemployed,147000,99000,609,1,26500,60,0.323,10.7,Education,Graduate,Mumbai,Rejected,Not Applicable,High Risk
+LOAN20256,CUST10256,21-06-2025,33,Self-Employed,532400,283000,671,0,110500,24,0.5,10.93,Personal,Postgraduate,Ahmedabad,Rejected,Not Applicable,Medium Risk
+LOAN20257,CUST10257,13-05-2023,51,Business Owner,608800,226000,643,1,329500,48,0.643,12.17,Business,Graduate,Mumbai,Rejected,Not Applicable,High Risk
+LOAN20258,CUST10258,19-12-2024,31,Contract,476400,130000,655,0,242600,24,0.653,10.24,Vehicle,Diploma,Hyderabad,Approved,No Default,High Risk
+LOAN20259,CUST10259,20-02-2023,42,Salaried,382100,183000,697,1,174500,60,0.562,10.14,Business,Graduate,Kolkata,Approved,No Default,Medium Risk
+LOAN20260,CUST10260,09-09-2024,46,Salaried,971100,204000,602,3,93600,36,0.173,11.47,Home,Graduate,Ahmedabad,Rejected,Not Applicable,High Risk
+LOAN20261,CUST10261,27-01-2024,29,Self-Employed,648100,323000,738,2,158000,60,0.35,9.68,Home,Postgraduate,Ahmedabad,Approved,No Default,Medium Risk
+LOAN20262,CUST10262,26-11-2024,37,Salaried,564500,134000,657,2,246500,60,0.486,10.22,Personal,Graduate,Delhi,Rejected,Not Applicable,Medium Risk
+LOAN20263,CUST10263,13-12-2024,21,Contract,378300,136000,656,0,58900,72,0.22,9.88,Personal,Diploma,Kochi,Rejected,Not Applicable,Medium Risk
+LOAN20264,CUST10264,06-06-2024,28,Contract,477000,140000,708,2,153100,60,0.386,8.01,Business,Graduate,Bengaluru,Rejected,Not Applicable,Medium Risk
+LOAN20265,CUST10265,04-02-2025,35,Salaried,842500,225000,627,0,356000,60,0.481,11.73,Medical,Graduate,Delhi,Approved,No Default,High Risk
+LOAN20266,CUST10266,22-05-2024,26,Salaried,374000,207000,618,1,72500,48,0.339,12.34,Home,Postgraduate,Kolkata,Approved,No Default,High Risk
+LOAN20267,CUST10267,23-10-2024,54,Business Owner,570900,211000,656,2,307500,84,0.596,12.72,Education,High School,Hyderabad,Approved,No Default,Medium Risk
+LOAN20268,CUST10268,20-12-2023,24,Salaried,490100,276000,625,1,262500,60,0.656,13.49,Business,Graduate,Kochi,Approved,No Default,High Risk
+LOAN20269,CUST10269,16-05-2025,34,Business Owner,410400,63000,751,1,77800,36,0.245,8.98,Home,Diploma,Delhi,Approved,No Default,Low Risk
+LOAN20270,CUST10270,30-08-2025,39,Salaried,382600,106000,611,3,226000,72,0.641,13.59,Personal,Graduate,Chennai Central,Rejected,Not Applicable,High Risk
+LOAN20271,CUST10271,30-01-2024,52,,515600,343000,631,1,95100,48,0.363,11.04,Vehicle,Diploma,Coimbatore,Approved,No Default,High Risk
+LOAN20272,CUST10272,13-08-2025,24,Salaried,862700,329000,716,1,494900,60,0.658,10.43,Home,Postgraduate,Bengaluru,Approved,No Default,High Risk
+LOAN20273,CUST10273,06-04-2023,50,Self-Employed,735000,177000,616,2,127200,60,0.226,11.83,Education,Graduate,Pune,Approved,No Default,High Risk
+LOAN20274,CUST10274,16-04-2023,38,Salaried,622200,140000,660,1,49100,36,0.16,10.09,Vehicle,Postgraduate,Chennai Central,Rejected,Not Applicable,Medium Risk
+LOAN20275,CUST10275,16-10-2024,28,Self-Employed,974900,268000,723,0,384200,60,0.451,8.46,Business,Graduate,Kolkata,Approved,No Default,Medium Risk
+LOAN20276,CUST10276,08-11-2024,43,Salaried,530800,144000,654,1,214100,36,0.503,12.31,Personal,Graduate,Hyderabad,Rejected,Not Applicable,Medium Risk
+LOAN20277,CUST10277,27-05-2024,40,Business Owner,944400,494000,702,2,613000,36,0.843,11.66,Personal,Graduate,Bengaluru,Rejected,Not Applicable,High Risk
+LOAN20278,CUST10278,11-07-2024,32,Contract,421400,215000,608,1,151500,36,0.537,11.77,Vehicle,Postgraduate,Chennai Central,Approved,No Default,High Risk
+LOAN20279,CUST10279,30-08-2023,39,Salaried,644000,79000,600,1,134800,60,0.236,12.03,Education,High School,Kolkata,Approved,No Default,High Risk
+LOAN20280,CUST10280,05-05-2025,34,Salaried,428600,293000,680,0,121300,36,0.523,11.63,Home,Graduate,Coimbatore,Approved,Default,Medium Risk
+LOAN20281,CUST10281,27-07-2025,39,Salaried,175900,143000,735,1,30300,12,1.065,11.36,Vehicle,Postgraduate,Coimbatore,Rejected,Not Applicable,High Risk
+LOAN20282,CUST10282,02-05-2024,45,Self-Employed,607600,216000,671,0,113900,60,0.265,9.96,Home,Postgraduate,Delhi,Approved,No Default,Medium Risk
+LOAN20283,CUST10283,28-02-2025,54,Self-Employed,1282800,393000,747,2,595400,36,0.571,9.21,Education,Diploma,Mumbai,Approved,No Default,Medium Risk
+LOAN20284,CUST10284,29-05-2024,26,Self-Employed,1010800,369000,747,3,551300,24,0.748,9.94,Vehicle,Graduate,Chennai Central,Rejected,Not Applicable,High Risk
+LOAN20285,CUST10285,15-10-2024,59,Salaried,901200,332000,638,4,502700,36,0.686,9.97,Vehicle,Postgraduate,Delhi,Approved,No Default,High Risk
+LOAN20286,CUST10286,16-06-2025,21,Salaried,1026300,303000,814,0,657900,36,0.749,8.63,Home,Graduate,Bengaluru,Approved,No Default,High Risk
+LOAN20287,CUST10287,02-03-2023,36,Self-Employed,676200,313000,688,1,176400,48,0.385,10.12,Personal,Graduate,Kolkata,Approved,No Default,Medium Risk
+LOAN20288,CUST10288,20-02-2024,44,Self-Employed,712400,147000,770,1,331600,12,0.684,7.71,Personal,Graduate,Kochi,Approved,No Default,High Risk
+LOAN20289,CUST10289,21-10-2023,41,Unemployed,152600,50000,536,2,94600,84,0.669,13.03,Home,Graduate,Mumbai,Rejected,Not Applicable,High Risk
+LOAN20290,CUST10290,06-01-2025,32,Salaried,487200,189000,768,0,272100,60,0.64,10.32,Medical,Graduate,Bengaluru,Approved,No Default,High Risk
+LOAN20291,CUST10291,29-10-2023,36,Business Owner,1052300,168000,760,3,349900,36,0.39,7.85,Home,Postgraduate,Kochi,Approved,No Default,Low Risk
+LOAN20292,CUST10292,19-06-2023,33,Salaried,1010500,450000,749,1,638600,36,0.792,10.66,Business,Graduate,Chennai Central,Approved,No Default,High Risk
+LOAN20293,CUST10293,07-10-2024,32,Salaried,530300,258000,685,0,275900,48,0.647,10.03,Home,Postgraduate,Bengaluru,Rejected,Not Applicable,High Risk
+LOAN20294,CUST10294,10-02-2023,46,Business Owner,630800,373000,663,1,383400,60,0.731,12.42,Business,Graduate,Bengaluru,Rejected,Not Applicable,High Risk
+LOAN20295,CUST10295,19-08-2023,42,Business Owner,783200,274000,758,0,402600,24,0.695,9.98,Home,High School,Delhi,Approved,No Default,High Risk
+LOAN20296,CUST10296,13-02-2024,31,Unemployed,273800,63000,595,0,194000,36,0.793,12.83,Personal,Diploma,Kochi,Rejected,Not Applicable,High Risk
+LOAN20297,CUST10297,07-01-2025,47,Salaried,283500,80000,541,1,183100,72,0.697,12.04,Vehicle,Graduate,Hyderabad,Rejected,Not Applicable,High Risk
+LOAN20298,CUST10298,12-10-2024,41,Salaried,188300,50000,578,1,65200,36,0.438,11.73,Personal,Graduate,Chennai Central,Rejected,Not Applicable,High Risk
+LOAN20299,CUST10299,13-09-2024,46,Business Owner,601200,315000,664,0,89300,36,0.337,11.03,Vehicle,Postgraduate,Mumbai,Rejected,Not Applicable,Medium Risk
+LOAN20300,CUST10300,23-09-2025,44,Self-Employed,360700,50000,663,2,67400,72,0.211,11.25,Home,Graduate,Coimbatore,Approved,No Default,Medium Risk
+LOAN20301,CUST10301,24-10-2023,30,Salaried,444300,131000,661,1,30300,60,0.134,9.56,Personal,Graduate,Bengaluru,Rejected,Not Applicable,Medium Risk
+LOAN20302,CUST10302,30-03-2024,32,Salaried,528200,179000,739,1,180000,36,0.466,9.58,Home,Graduate,Bengaluru,Approved,No Default,Medium Risk
+LOAN20303,CUST10303,26-02-2023,45,Salaried,456100,207000,558,3,152500,60,0.434,12.25,Business,Diploma,Kolkata,Rejected,Not Applicable,High Risk
+LOAN20304,CUST10304,30-07-2025,44,Contract,889200,473000,690,1,350200,12,0.986,13.61,Home,Diploma,Kolkata,Rejected,Not Applicable,High Risk
+LOAN20305,CUST10305,26-09-2024,38,Salaried,663300,175000,585,2,439100,60,0.72,13.26,Vehicle,Postgraduate,Kolkata,Rejected,Not Applicable,High Risk
+LOAN20306,CUST10306,28-08-2023,39,Contract,655000,168000,726,1,425400,48,0.72,11.63,Personal,Graduate,Kochi,Rejected,Not Applicable,High Risk
+LOAN20307,CUST10307,20-08-2024,51,Salaried,764300,132000,690,2,87600,60,0.152,9.49,Vehicle,High School,Bengaluru,Approved,No Default,Medium Risk
+LOAN20308,CUST10308,25-06-2023,32,Salaried,328200,146000,676,0,80500,84,0.312,10.28,Education,High School,Bengaluru,Rejected,Not Applicable,Medium Risk
+LOAN20309,CUST10309,04-03-2023,43,Salaried,933700,145000,664,1,303200,72,0.352,9.74,Personal,High School,Hyderabad,Approved,No Default,Medium Risk
+LOAN20310,CUST10310,04-07-2024,36,Self-Employed,624900,188000,742,0,177600,72,0.337,10.52,Business,Graduate,Hyderabad,Approved,No Default,Medium Risk
+LOAN20311,CUST10311,18-05-2023,36,Salaried,782300,298000,754,0,452200,60,0.661,11.34,Business,Graduate,Kolkata,Rejected,Not Applicable,High Risk
+LOAN20312,CUST10312,07-09-2025,49,Business Owner,468100,66000,694,2,181100,36,0.436,12.17,Vehicle,Postgraduate,Kochi,Approved,No Default,Medium Risk
+LOAN20313,CUST10313,29-03-2024,46,Salaried,269000,53000,640,1,152000,48,0.617,11.17,Vehicle,Diploma,Coimbatore,Rejected,Not Applicable,High Risk
+LOAN20314,CUST10314,22-01-2025,46,Self-Employed,959600,483000,736,0,552600,60,0.684,10.8,Vehicle,Graduate,Bengaluru,Rejected,Not Applicable,High Risk
+LOAN20315,CUST10315,24-03-2024,51,Contract,530500,284000,609,2,309600,72,0.677,12.21,Education,Graduate,Ahmedabad,Rejected,Not Applicable,High Risk
+LOAN20316,CUST10316,14-08-2023,38,Self-Employed,420300,76000,699,1,46300,36,0.175,9.57,Personal,Diploma,Kochi,Rejected,Not Applicable,Medium Risk
+LOAN20317,CUST10317,18-03-2024,45,Self-Employed,426900,50000,743,3,204600,72,0.501,9.96,Vehicle,Diploma,Bengaluru,Approved,No Default,Medium Risk
+LOAN20318,CUST10318,25-07-2023,35,Salaried,973200,202000,774,0,325700,60,0.38,8.36,Vehicle,Graduate,Ahmedabad,Approved,No Default,Low Risk
+LOAN20319,CUST10319,06-11-2024,41,Salaried,320400,181000,612,1,113000,84,0.441,11.66,Vehicle,Diploma,Hyderabad,Approved,No Default,High Risk
+LOAN20320,CUST10320,27-01-2023,37,Self-Employed,1425600,796000,769,2,132300,72,0.194,9.7,Personal,Postgraduate,Chennai Central,Approved,No Default,Low Risk
+LOAN20321,CUST10321,01-04-2024,39,Unemployed,133200,64000,503,1,43500,36,0.499,13.93,Business,Diploma,Pune,Rejected,Not Applicable,High Risk
+LOAN20322,CUST10322,25-11-2024,44,Self-Employed,880300,205000,728,1,266200,24,0.424,7.93,Personal,Graduate,Pune,Rejected,Not Applicable,Medium Risk
+LOAN20323,CUST10323,10-12-2024,30,Self-Employed,553400,312000,689,0,56400,24,0.415,9.93,Vehicle,Graduate,Chennai Central,Approved,No Default,Medium Risk
+LOAN20324,CUST10324,17-09-2025,59,Business Owner,1045900,279000,614,1,452700,36,0.526,11.28,Personal,Graduate,Hyderabad,Rejected,Not Applicable,High Risk
+LOAN20325,CUST10325,28-04-2025,28,Salaried,436700,50000,600,0,240500,60,0.574,11.86,Personal,Graduate,Kolkata,Rejected,Not Applicable,High Risk
+LOAN20326,CUST10326,06-08-2025,26,Salaried,524400,93000,656,0,103600,60,0.236,10.81,Home,Postgraduate,Pune,Rejected,Not Applicable,Medium Risk
+LOAN20327,CUST10327,17-04-2023,50,Self-Employed,660900,87000,659,2,67800,72,0.126,10.45,Home,Graduate,Coimbatore,Approved,No Default,Medium Risk
+LOAN20328,CUST10328,19-03-2024,46,Unemployed,126800,100000,507,1,72500,60,0.74,14.26,Home,High School,Bengaluru,Rejected,Not Applicable,High Risk
+LOAN20329,CUST10329,01-12-2024,44,Salaried,809100,249000,721,2,59600,12,0.391,9.25,Vehicle,Graduate,Chennai Central,Approved,No Default,Medium Risk
+LOAN20330,CUST10330,05-02-2023,44,Business Owner,612000,268000,689,1,354300,36,0.731,11.06,Business,Graduate,Hyderabad,Approved,No Default,High Risk
+LOAN20331,CUST10331,19-08-2024,38,Salaried,508100,180000,660,3,231000,24,0.64,12.99,Education,Graduate,Bengaluru,Rejected,Not Applicable,High Risk
+LOAN20332,CUST10332,04-06-2023,29,Self-Employed,402100,266000,609,1,122600,36,0.533,13.01,Vehicle,Postgraduate,Bengaluru,Rejected,Not Applicable,High Risk
+LOAN20333,CUST10333,18-06-2023,39,Salaried,165700,57000,695,0,63300,60,0.457,10.96,Business,Graduate,Bengaluru,Rejected,Not Applicable,Medium Risk
+LOAN20334,CUST10334,06-03-2025,31,Salaried,517300,232000,762,1,79000,12,0.648,9.15,Business,Diploma,Delhi,Approved,No Default,High Risk
+LOAN20335,CUST10335,29-09-2023,48,Business Owner,2492900,1000000,830,3,483000,36,0.336,6.5,Personal,Graduate,Hyderabad,Approved,No Default,Low Risk
+LOAN20336,CUST10336,30-06-2024,37,Salaried,826300,456000,667,1,116400,36,0.345,11.46,Education,Postgraduate,Kochi,Rejected,Not Applicable,Medium Risk
+LOAN20337,CUST10337,24-02-2024,30,Self-Employed,642000,184000,700,0,229800,60,0.418,11.71,Home,Postgraduate,Bengaluru,Approved,No Default,Medium Risk
+LOAN20338,CUST10338,03-07-2023,35,Business Owner,690200,231000,663,1,90200,48,0.219,8.64,Home,Graduate,Mumbai,Rejected,Not Applicable,Medium Risk
+LOAN20339,CUST10339,02-09-2024,42,Contract,447600,119000,632,0,159500,48,0.426,13.22,Home,Postgraduate,Chennai Central,Approved,No Default,High Risk
+LOAN20340,CUST10340,25-08-2023,32,Salaried,737300,168000,733,1,324200,48,0.502,9.83,Education,Diploma,Delhi,Approved,No Default,Medium Risk
+LOAN20341,CUST10341,03-07-2025,30,Salaried,321700,124000,547,0,58300,84,0.24,12.35,Personal,Graduate,Chennai Central,Rejected,Not Applicable,High Risk
+LOAN20342,CUST10342,23-05-2024,40,Salaried,968000,409000,787,1,88700,36,0.244,6.86,Home,Graduate,Kolkata,Approved,No Default,Low Risk
+LOAN20343,CUST10343,16-03-2024,40,Unemployed,289300,162000,593,3,20900,60,0.195,9.79,Home,High School,Kochi,Rejected,Not Applicable,High Risk
+LOAN20344,CUST10344,07-09-2025,33,Contract,625100,270000,634,3,36700,60,0.152,8.48,Home,Graduate,Delhi,Approved,No Default,High Risk
+LOAN20345,CUST10345,02-05-2023,33,Self-Employed,799800,397000,684,2,400900,60,0.609,12.05,Personal,Graduate,Chennai Central,Rejected,Not Applicable,High Risk
+LOAN20346,CUST10346,21-02-2024,40,Contract,447000,287000,637,1,97900,72,0.338,10.92,Personal,High School,Pune,Rejected,Not Applicable,High Risk
+LOAN20347,CUST10347,18-06-2024,24,Self-Employed,895000,179000,602,1,461600,36,0.586,12.98,Personal,Graduate,Coimbatore,Approved,No Default,High Risk
+LOAN20348,CUST10348,10-01-2024,24,Self-Employed,860900,388000,777,1,223400,48,0.379,9.54,Education,Graduate,Bengaluru,Approved,No Default,Low Risk
+LOAN20349,CUST10349,28-07-2024,31,Salaried,478400,136000,670,1,147700,24,0.464,10.82,Vehicle,Diploma,Delhi,Rejected,Not Applicable,Medium Risk
+LOAN20350,CUST10350,22-11-2023,36,Business Owner,594500,123000,698,1,200700,60,0.382,11.42,Home,Diploma,Kochi,Rejected,Not Applicable,Medium Risk
+LOAN20351,CUST10351,24-04-2024,41,Salaried,595400,70000,731,2,271600,36,0.497,9.27,Education,Graduate,Coimbatore,Approved,No Default,Medium Risk
+LOAN20352,CUST10352,30-05-2023,53,Business Owner,1646900,241000,719,0,363000,36,0.272,8.91,Business,Graduate,Kochi,Approved,No Default,Medium Risk
+LOAN20353,CUST10353,07-12-2024,47,Business Owner,432000,172000,684,0,69600,60,0.246,9.05,Medical,Diploma,Ahmedabad,Rejected,Not Applicable,Medium Risk
+LOAN20354,CUST10354,21-09-2025,36,Business Owner,387100,50000,639,2,154300,60,0.426,11.97,Personal,Postgraduate,Kolkata,Approved,No Default,High Risk
+LOAN20355,CUST10355,14-08-2024,38,Salaried,613700,221000,727,0,176000,24,0.475,10.81,Business,Graduate,Mumbai,Approved,No Default,Medium Risk
+LOAN20356,CUST10356,04-05-2024,28,Salaried,581000,122000,560,3,197700,60,0.387,12.21,Personal,Graduate,Delhi,Approved,No Default,High Risk
+LOAN20357,CUST10357,06-04-2025,38,Salaried,616200,323000,675,0,262600,60,0.541,10,Home,Graduate,Kochi,Rejected,Not Applicable,Medium Risk
+LOAN20358,CUST10358,02-06-2023,35,Salaried,637400,64000,650,0,209300,36,0.364,11.84,Medical,Diploma,Coimbatore,Rejected,Not Applicable,Medium Risk
+LOAN20359,CUST10359,17-01-2023,41,Salaried,509400,194000,694,0,222900,48,0.541,10.07,Home,Diploma,Kolkata,Rejected,Not Applicable,Medium Risk
+LOAN20360,CUST10360,04-07-2024,30,Contract,905300,153000,709,0,355200,60,0.43,9.74,Personal,High School,Chennai Central,Rejected,Not Applicable,Medium Risk
+LOAN20361,CUST10361,24-04-2025,43,Self-Employed,300500,50000,601,0,183400,60,0.645,12,Education,Diploma,Hyderabad,Rejected,Not Applicable,High Risk
+LOAN20362,CUST10362,14-12-2023,53,Salaried,381000,50000,619,1,210200,36,0.598,12.58,Vehicle,Postgraduate,Hyderabad,Approved,No Default,High Risk
+LOAN20363,CUST10363,03-04-2024,37,Salaried,539600,251000,667,3,186400,36,0.513,10.53,Personal,Graduate,Hyderabad,Approved,No Default,Medium Risk
+LOAN20364,CUST10364,21-07-2023,42,Salaried,257700,50000,597,0,115300,60,0.49,12.88,Vehicle,Diploma,Bengaluru,Rejected,Not Applicable,High Risk
+LOAN20365,CUST10365,27-02-2024,45,Self-Employed,595500,62000,715,1,358700,72,0.62,10.26,Education,Postgraduate,Coimbatore,Rejected,Not Applicable,High Risk
+LOAN20366,CUST10366,07-10-2023,34,Self-Employed,1438600,835000,730,1,471700,60,0.458,10.22,Vehicle,Postgraduate,Chennai Central,Rejected,Not Applicable,Medium Risk
+LOAN20367,CUST10367,26-02-2024,40,Contract,447300,152000,480,1,156600,24,0.532,13.85,Vehicle,Graduate,Coimbatore,Rejected,Not Applicable,High Risk
+LOAN20368,CUST10368,22-08-2024,38,Self-Employed,723900,64000,661,0,366500,48,0.53,12.3,Medical,High School,Coimbatore,Approved,No Default,Medium Risk
+LOAN20369,CUST10369,19-09-2025,39,Unemployed,120000,50000,516,1,16600,72,0.212,12.26,Business,Graduate,Hyderabad,Rejected,Not Applicable,High Risk
+LOAN20370,CUST10370,09-04-2024,30,Contract,329400,251000,538,2,5500,24,0.415,13.15,Vehicle,Graduate,Hyderabad,Approved,Default,High Risk
+LOAN20371,CUST10371,10-08-2025,38,Salaried,473600,54000,599,2,284000,84,0.618,11.84,Home,Postgraduate,Pune,Rejected,Not Applicable,High Risk
+LOAN20372,CUST10372,22-03-2025,43,Contract,380200,64000,639,3,34600,84,0.118,10.06,Business,Postgraduate,Coimbatore,Rejected,Not Applicable,High Risk
+LOAN20373,CUST10373,14-03-2025,53,Salaried,1049000,514000,796,4,496000,24,0.734,8.79,Home,Graduate,Ahmedabad,Approved,No Default,High Risk
+LOAN20374,CUST10374,21-12-2023,48,Business Owner,1023300,411000,732,2,518200,72,0.581,10.21,Education,Diploma,Ahmedabad,Rejected,Not Applicable,Medium Risk
+LOAN20375,CUST10375,04-08-2024,60,Salaried,332600,118000,620,1,222600,36,0.8,12.37,Vehicle,Graduate,Kolkata,Rejected,Not Applicable,High Risk
+LOAN20376,CUST10376,13-01-2024,30,Contract,498400,50000,669,1,12300,72,0.043,9.1,Business,Graduate,Delhi,Rejected,Not Applicable,Medium Risk
+LOAN20377,CUST10377,04-05-2023,47,Contract,562400,61000,625,2,257100,48,0.487,12.17,Home,Graduate,Ahmedabad,Rejected,Not Applicable,High Risk
+LOAN20378,CUST10378,21-03-2023,40,Business Owner,1353400,534000,709,1,405700,48,0.405,8.86,Home,Postgraduate,Kochi,Approved,No Default,Medium Risk
+LOAN20379,CUST10379,10-07-2024,60,Business Owner,1672000,311000,714,2,446700,60,0.307,9.44,Vehicle,High School,Ahmedabad,Approved,Default,Medium Risk
+LOAN20380,CUST10380,14-09-2025,30,Salaried,348300,127000,559,0,23000,60,0.142,11.93,Education,Diploma,Chennai Central,Approved,No Default,High Risk
+LOAN20381,CUST10381,21-08-2023,30,Salaried,384200,170000,637,,123200,12,0.804,13.17,Personal,High School,Kolkata,Approved,No Default,High Risk
+LOAN20382,CUST10382,24-04-2024,32,Salaried,310000,123000,660,0,93100,60,0.382,12.28,Vehicle,Graduate,Mumbai,Approved,No Default,Medium Risk
+LOAN20383,CUST10383,03-06-2023,21,Salaried,506800,206000,665,0,54800,36,0.258,9.56,Vehicle,Graduate,Kochi,Rejected,Not Applicable,Medium Risk
+LOAN20384,CUST10384,25-06-2025,33,Business Owner,979400,582000,688,0,399200,36,0.626,11.22,Home,Postgraduate,Chennai Central,Rejected,Not Applicable,High Risk
+LOAN20385,CUST10385,22-11-2024,30,Salaried,910800,431000,657,1,443400,36,0.653,13.28,Home,Graduate,Mumbai,Rejected,Not Applicable,High Risk
+LOAN20386,CUST10386,13-02-2024,40,Unemployed,197900,50000,614,3,109400,48,0.62,11.43,Business,Diploma,Hyderabad,Rejected,Not Applicable,High Risk
+LOAN20387,CUST10387,31-01-2023,41,Self-Employed,555800,147000,592,1,325400,36,0.68,11.33,Business,Postgraduate,Hyderabad,Rejected,Not Applicable,High Risk
+LOAN20388,CUST10388,19-08-2024,57,Business Owner,842200,398000,740,2,247400,24,0.55,10.41,Education,High School,Chennai Central,Approved,No Default,Medium Risk
+LOAN20389,CUST10389,10-07-2024,48,Salaried,379700,50000,603,3,193400,24,0.579,13.4,Home,Graduate,Kochi,Rejected,Not Applicable,High Risk
+LOAN20390,CUST10390,17-05-2024,32,Contract,1207200,641000,671,1,697000,12,1.153,11.94,Home,Graduate,Chennai Central,Rejected,Not Applicable,High Risk
+LOAN20391,CUST10391,06-01-2024,29,Contract,204700,50000,535,0,44400,48,0.281,12.34,Personal,Graduate,Hyderabad,Rejected,Not Applicable,High Risk
+LOAN20392,CUST10392,19-11-2023,43,Self-Employed,708100,243000,652,3,143300,84,0.253,9.56,Personal,Graduate,Bengaluru,Rejected,Not Applicable,Medium Risk
+LOAN20393,CUST10393,28-11-2023,25,Self-Employed,1711700,492000,830,1,509200,24,0.446,8.19,Vehicle,Postgraduate,Delhi,Approved,No Default,Medium Risk
+LOAN20394,CUST10394,31-08-2023,56,Business Owner,785600,308000,720,1,183500,84,0.292,9.28,Personal,Graduate,Hyderabad,Approved,No Default,Medium Risk
+LOAN20395,CUST10395,05-07-2024,50,Salaried,517600,58000,725,0,220100,60,0.45,10.9,Personal,Graduate,Hyderabad,Rejected,Not Applicable,Medium Risk
+LOAN20396,CUST10396,05-03-2024,33,Self-Employed,545800,64000,693,2,227000,60,0.442,9.32,Medical,Graduate,Delhi,Approved,No Default,Medium Risk
+LOAN20397,CUST10397,01-07-2023,21,Salaried,520000,143000,611,0,234800,60,0.51,12.45,Home,Graduate,Pune,Rejected,Not Applicable,High Risk
+LOAN20398,CUST10398,19-03-2025,52,Salaried,1095900,623000,709,0,351800,60,0.443,10.61,Home,Graduate,Chennai Central,Rejected,Not Applicable,Medium Risk
+LOAN20399,CUST10399,17-04-2024,37,Salaried,196100,50000,597,0,60600,24,0.442,12.16,Home,Graduate,Bengaluru,Rejected,Not Applicable,High Risk
+LOAN20400,CUST10400,11-01-2024,50,Salaried,1183700,629000,809,2,704100,60,0.71,7.77,Business,Graduate,Bengaluru,Approved,No Default,High Risk
+LOAN20401,CUST10401,22-03-2023,22,Salaried,286200,58000,583,0,5300,60,0.061,11.18,Business,Graduate,Kolkata,Approved,No Default,High Risk
+LOAN20402,CUST10402,03-07-2024,32,Salaried,498900,147000,719,2,304200,60,0.674,10.27,Personal,Graduate,Mumbai,Approved,No Default,High Risk
+LOAN20403,CUST10403,17-05-2025,38,Salaried,167000,57000,627,1,61800,60,0.446,10.2,Home,Graduate,Pune,Rejected,Not Applicable,High Risk
+LOAN20404,CUST10404,24-02-2024,38,Self-Employed,859500,77000,795,0,525200,24,0.658,9.72,Education,Graduate,Bengaluru,Approved,No Default,High Risk
+LOAN20405,CUST10405,11-04-2024,33,Unemployed,120000,50000,550,0,300,60,0.094,12.19,Education,Graduate,Delhi,Rejected,Not Applicable,High Risk
+LOAN20406,CUST10406,03-03-2024,44,Salaried,707800,226000,729,2,126400,60,0.244,8.46,Personal,Postgraduate,Chennai Central,Approved,No Default,Medium Risk
+LOAN20407,CUST10407,26-02-2023,27,Salaried,1498200,394000,850,2,88800,36,0.153,7.08,Education,Postgraduate,Chennai Central,Approved,No Default,Low Risk
+LOAN20408,CUST10408,18-11-2023,37,Self-Employed,336800,50000,610,1,116700,36,0.398,12.39,Home,Diploma,Mumbai,Approved,No Default,High Risk
+LOAN20409,CUST10409,03-09-2025,39,Salaried,621100,72000,597,0,374200,60,0.627,12.85,Personal,Graduate,Mumbai,Rejected,Not Applicable,High Risk
+LOAN20410,CUST10410,25-06-2024,43,Salaried,412700,223000,558,4,82000,72,0.293,12.7,Education,Graduate,Bengaluru,Rejected,Not Applicable,High Risk
+LOAN20411,CUST10411,09-05-2024,45,Self-Employed,795000,54000,727,0,488800,48,0.633,11.33,Vehicle,Diploma,Pune,Approved,No Default,High Risk
+LOAN20412,CUST10412,23-09-2023,27,Salaried,572200,320000,573,2,253400,60,0.562,13.46,Home,Graduate,Kolkata,Rejected,Not Applicable,High Risk
+LOAN20413,CUST10413,15-08-2023,23,Self-Employed,476300,105000,637,3,167600,48,0.41,9.44,Business,Graduate,Mumbai,Approved,No Default,High Risk
+LOAN20414,CUST10414,08-04-2025,51,Self-Employed,819000,399000,714,2,433300,24,0.794,9.41,Personal,Graduate,Pune,Approved,No Default,High Risk
+LOAN20415,CUST10415,16-08-2025,41,Salaried,1348100,255000,761,1,337800,24,0.356,9.68,Business,Graduate,Kolkata,Rejected,Not Applicable,Low Risk
+LOAN20416,CUST10416,14-03-2025,31,Salaried,517400,270000,695,1,149200,12,0.845,11.42,Vehicle,Postgraduate,Kochi,Approved,No Default,High Risk
+LOAN20417,CUST10417,23-02-2023,54,Business Owner,1106100,390000,735,1,641100,36,0.703,10.28,Medical,Graduate,Mumbai,Rejected,Not Applicable,High Risk
+LOAN20418,CUST10418,31-08-2024,39,Salaried,304800,82000,721,1,210100,36,0.784,12.77,Business,Graduate,Coimbatore,Approved,No Default,High Risk
+LOAN20419,CUST10419,18-08-2025,50,Salaried,358300,109000,604,0,258000,60,0.787,12.79,Personal,Graduate,Chennai Central,Rejected,Not Applicable,High Risk
+LOAN20420,CUST10420,04-09-2025,39,Business Owner,257400,62000,549,2,158900,60,0.669,13.78,Medical,Graduate,Delhi,Rejected,Not Applicable,High Risk
+LOAN20421,CUST10421,04-01-2023,59,Salaried,1156000,258000,690,0,123600,12,0.346,10.07,Vehicle,Graduate,Hyderabad,Rejected,Not Applicable,Medium Risk
+LOAN20422,CUST10422,14-03-2024,56,Business Owner,928700,389000,752,3,495100,36,0.679,10.11,Vehicle,Postgraduate,Bengaluru,Approved,No Default,High Risk
+LOAN20423,CUST10423,06-11-2023,36,Unemployed,176600,50000,628,1,59400,36,0.437,12.62,Home,Diploma,Mumbai,Approved,No Default,High Risk
+LOAN20424,CUST10424,28-05-2025,48,Salaried,566800,225000,701,0,360600,60,0.72,11.06,Personal,Diploma,Bengaluru,Rejected,Not Applicable,High Risk
+LOAN20425,CUST10425,25-08-2024,44,Salaried,311100,50000,716,3,127200,24,0.498,10.78,Personal,Graduate,Coimbatore,Approved,No Default,Medium Risk
+LOAN20426,CUST10426,30-03-2023,52,Salaried,757900,463000,630,1,251500,24,0.671,12.5,Personal,High School,Mumbai,Rejected,Not Applicable,High Risk
+LOAN20427,CUST10427,16-11-2023,28,Salaried,866000,391000,797,1,281200,84,0.392,9.09,Home,Postgraduate,Delhi,Approved,No Default,Low Risk
+LOAN20428,CUST10428,10-01-2024,45,Salaried,456400,233000,749,1,115400,60,0.363,7.97,Vehicle,Graduate,Bengaluru,Approved,No Default,Medium Risk
+LOAN20429,CUST10429,26-08-2024,49,Business Owner,624900,164000,717,1,47100,36,0.167,7.06,Home,Diploma,Bengaluru,Rejected,Not Applicable,Medium Risk
+LOAN20430,CUST10430,15-05-2024,21,Salaried,644200,157000,781,1,362700,48,0.628,9.58,Personal,Postgraduate,Delhi,Rejected,Not Applicable,High Risk
+LOAN20431,CUST10431,23-10-2024,26,Self-Employed,525500,116000,571,1,235200,36,0.529,12.26,Home,Postgraduate,Kolkata,Rejected,Not Applicable,High Risk
+LOAN20432,CUST10432,22-08-2023,21,Unemployed,198800,50000,552,2,27100,60,0.191,13.1,Business,Graduate,Chennai Central,Rejected,Not Applicable,High Risk
+LOAN20433,CUST10433,09-07-2025,35,Business Owner,2145200,904000,783,3,900000,60,0.509,8.98,Education,Graduate,Hyderabad,Approved,No Default,Medium Risk
+LOAN20434,CUST10434,03-12-2023,45,Self-Employed,575500,66000,707,1,261200,24,0.514,10.61,Education,Diploma,Ahmedabad,Approved,No Default,Medium Risk
+LOAN20435,CUST10435,24-07-2024,53,Salaried,477400,215000,610,1,142800,60,0.398,11.47,Business,Graduate,Chennai Central,Approved,No Default,High Risk
+LOAN20436,CUST10436,04-07-2023,39,Self-Employed,474900,92000,699,0,92800,36,0.266,9.06,Vehicle,Postgraduate,Ahmedabad,Approved,No Default,Medium Risk
+LOAN20437,CUST10437,13-03-2024,54,Self-Employed,926200,325000,776,0,553500,36,0.723,10.07,Home,Postgraduate,Delhi,Rejected,Not Applicable,High Risk
+LOAN20438,CUST10438,09-07-2024,24,Salaried,519800,161000,710,0,211600,36,0.515,11.19,Vehicle,Diploma,Mumbai,Approved,No Default,Medium Risk
+LOAN20439,CUST10439,29-06-2023,21,Salaried,415200,161000,677,1,170600,48,0.514,10.72,Home,Graduate,Hyderabad,Approved,No Default,Medium Risk
+LOAN20440,CUST10440,17-03-2023,37,Contract,834900,231000,622,0,305300,36,0.469,11.47,Medical,Postgraduate,Hyderabad,Approved,No Default,High Risk
+LOAN20441,CUST10441,17-10-2024,42,Salaried,1120800,366000,683,1,96300,36,0.203,10.26,Personal,Graduate,Hyderabad,Approved,No Default,Medium Risk
+LOAN20442,CUST10442,04-09-2024,38,Salaried,425000,104000,731,0,111800,36,0.35,7.99,Education,Postgraduate,Ahmedabad,Approved,No Default,Medium Risk
+LOAN20443,CUST10443,11-06-2025,21,Salaried,231500,117000,687,0,58000,12,0.795,12.86,Personal,Postgraduate,Coimbatore,Rejected,Not Applicable,High Risk
+LOAN20444,CUST10444,29-09-2023,37,Salaried,919600,489000,708,2,159300,60,0.29,8.87,Home,Graduate,Pune,Approved,No Default,Medium Risk
+LOAN20445,CUST10445,03-09-2025,25,Business Owner,563700,194000,648,1,251500,36,0.568,12.46,Business,Postgraduate,Kochi,Approved,Default,High Risk
+LOAN20446,CUST10446,24-02-2023,45,Business Owner,1144400,197000,615,3,655300,12,0.753,13.28,Business,Graduate,Hyderabad,Rejected,Not Applicable,High Risk
+LOAN20447,CUST10447,01-12-2024,42,Business Owner,304100,103000,587,0,81400,60,0.341,10.23,Business,Graduate,Pune,Rejected,Not Applicable,High Risk
+LOAN20448,CUST10448,12-05-2025,29,Salaried,870300,263000,810,1,132900,60,0.219,7.4,Vehicle,Graduate,Mumbai,Approved,No Default,Low Risk
+LOAN20449,CUST10449,26-04-2025,33,Salaried,317000,50000,581,3,148800,60,0.504,13.71,Vehicle,Graduate,Kochi,Approved,No Default,High Risk
+LOAN20450,CUST10450,18-03-2023,27,Self-Employed,920300,384000,710,4,502300,48,0.662,10.72,Home,Graduate,Hyderabad,Rejected,Not Applicable,High Risk
+LOAN20451,CUST10451,23-10-2023,37,Salaried,570900,295000,732,0,318100,36,0.74,10.72,Personal,Graduate,Pune,Rejected,Not Applicable,High Risk
+LOAN20452,CUST10452,07-08-2023,48,Salaried,358700,202000,587,1,163000,60,0.571,12.2,Vehicle,Postgraduate,Ahmedabad,Rejected,Not Applicable,High Risk
+LOAN20453,CUST10453,04-10-2023,28,Business Owner,644000,168000,689,2,219400,60,0.399,11.25,Vehicle,Diploma,Mumbai,Rejected,Not Applicable,Medium Risk
+LOAN20454,CUST10454,31-07-2024,43,Salaried,788200,389000,749,1,436900,36,0.73,10.17,Business,Postgraduate,Chennai Central,Approved,No Default,High Risk
+LOAN20455,CUST10455,09-10-2024,33,Self-Employed,681800,289000,678,1,80500,72,0.195,11.11,Home,Graduate,Delhi,Rejected,Not Applicable,Medium Risk
+LOAN20456,CUST10456,15-01-2025,30,Salaried,750600,244000,850,3,161500,24,0.392,8.29,Home,High School,Hyderabad,Rejected,Not Applicable,Low Risk
+LOAN20457,CUST10457,11-12-2024,37,Salaried,1464200,490000,671,2,420900,84,0.339,11.44,Home,Postgraduate,Pune,Approved,No Default,Medium Risk
+LOAN20458,CUST10458,23-09-2023,28,Salaried,267600,84000,705,0,83600,72,0.367,9.94,Education,Graduate,Kolkata,Rejected,Not Applicable,Medium Risk
+LOAN20459,CUST10459,10-08-2025,32,Unemployed,446000,58000,595,0,250000,60,0.589,12.36,Home,Diploma,Delhi,Rejected,Not Applicable,High Risk
+LOAN20460,CUST10460,18-06-2025,26,Business Owner,823200,196000,738,2,445600,72,0.585,10.54,Vehicle,Graduate,Mumbai,Approved,No Default,Medium Risk
+LOAN20461,CUST10461,12-02-2023,58,Unemployed,133300,68000,598,1,86600,60,0.76,14.62,Education,Postgraduate,Pune,Rejected,Not Applicable,High Risk
+LOAN20462,CUST10462,27-12-2023,38,Self-Employed,342200,91000,604,0,46300,36,0.231,12.57,Home,Graduate,Chennai Central,Rejected,Not Applicable,High Risk
+LOAN20463,CUST10463,16-08-2023,31,Salaried,517800,92000,684,0,88900,48,0.218,8.17,Personal,Graduate,Hyderabad,Rejected,Not Applicable,Medium Risk
+LOAN20464,CUST10464,15-08-2023,40,Self-Employed,1008600,535000,606,1,263700,24,0.537,14.5,Education,Diploma,Ahmedabad,Approved,No Default,High Risk
+LOAN20465,CUST10465,04-03-2023,37,Salaried,533300,245000,706,1,238700,36,0.61,11.03,Personal,Graduate,Pune,Approved,No Default,High Risk
+LOAN20466,CUST10466,20-06-2023,36,Contract,914600,305000,701,1,522000,60,0.641,11.67,Vehicle,Graduate,Chennai Central,Rejected,Not Applicable,High Risk
+LOAN20467,CUST10467,20-08-2025,44,Salaried,282500,96000,684,1,153900,36,0.671,10.76,Vehicle,High School,Bengaluru,Rejected,Not Applicable,High Risk
+LOAN20468,CUST10468,31-01-2025,46,Self-Employed,644300,301000,732,0,301700,36,0.64,9.71,Medical,High School,Pune,Rejected,Not Applicable,High Risk
+LOAN20469,CUST10469,29-04-2025,33,Salaried,310800,50000,672,1,165700,60,0.568,10.13,Home,Postgraduate,Coimbatore,Approved,No Default,Medium Risk
+LOAN20470,CUST10470,31-01-2025,32,Salaried,675100,63000,695,2,198300,72,0.31,11.19,Vehicle,Graduate,Kochi,Approved,No Default,Medium Risk
+LOAN20471,CUST10471,03-11-2023,35,Business Owner,1198500,475000,683,0,254400,12,0.626,10.76,Business,Graduate,Hyderabad,Approved,No Default,High Risk
+LOAN20472,CUST10472,19-01-2025,21,Salaried,463300,128000,627,3,158200,36,0.444,11.52,Personal,Diploma,Kolkata,Approved,Default,High Risk
+LOAN20473,CUST10473,21-07-2024,23,Salaried,162400,50000,702,1,99600,24,0.777,11.33,Education,Graduate,Delhi,Rejected,Not Applicable,High Risk
+LOAN20474,CUST10474,13-11-2024,52,Salaried,623800,50000,760,2,341000,60,0.563,8.86,Vehicle,Graduate,Coimbatore,Approved,No Default,Medium Risk
+LOAN20475,CUST10475,08-07-2025,54,Salaried,699200,201000,676,1,102200,24,0.301,9.98,Personal,Postgraduate,Pune,Rejected,Not Applicable,Medium Risk
+LOAN20476,CUST10476,18-09-2025,36,Business Owner,950700,127000,711,0,283500,60,0.328,9.68,Business,Graduate,Chennai Central,Approved,No Default,Medium Risk
+LOAN20477,CUST10477,03-02-2023,44,Contract,801300,416000,624,2,198800,36,0.44,12.63,Home,Graduate,Kolkata,Rejected,Not Applicable,High Risk
+LOAN20478,CUST10478,06-04-2025,41,Unemployed,122700,50000,638,2,30100,36,0.385,10.31,Home,Graduate,Chennai Central,Rejected,Not Applicable,High Risk
+LOAN20479,CUST10479,03-10-2024,65,Business Owner,1085300,524000,758,1,332700,72,0.396,8.57,Vehicle,Graduate,Hyderabad,Approved,No Default,Low Risk
+LOAN20480,CUST10480,10-05-2023,49,Salaried,1005000,247000,825,2,515500,12,0.772,9.78,Education,Graduate,Kochi,Rejected,Not Applicable,High Risk
+LOAN20481,CUST10481,29-01-2024,37,Business Owner,333400,107000,600,0,155300,48,0.549,12.53,Education,Graduate,Pune,Rejected,Not Applicable,High Risk
+LOAN20482,CUST10482,31-05-2023,28,Salaried,661000,428000,664,0,130700,12,0.914,12.86,Education,Graduate,Kochi,Rejected,Not Applicable,High Risk
+LOAN20483,CUST10483,16-10-2024,22,Salaried,445100,180000,677,0,203600,48,0.569,10.41,Home,Postgraduate,Delhi,Rejected,Not Applicable,Medium Risk
+LOAN20484,CUST10484,21-09-2024,40,Contract,425800,143000,673,2,252400,60,0.666,12.27,Home,Diploma,Mumbai,Rejected,Not Applicable,High Risk
+LOAN20485,CUST10485,16-12-2024,30,Salaried,605245,169000,674,1,203400,36,0.395,11.68,Medical,Graduate,Kolkata,Rejected,Not Applicable,Medium Risk
+LOAN20486,CUST10486,19-01-2024,24,Contract,350500,69000,582,2,233800,24,0.776,14.78,Home,Graduate,Chennai Central,Rejected,Not Applicable,High Risk
+LOAN20487,CUST10487,16-01-2025,32,Salaried,409900,244000,709,0,78200,36,0.409,9.82,Education,Graduate,Ahmedabad,Rejected,Not Applicable,Medium Risk
+LOAN20488,CUST10488,17-01-2023,27,Self-Employed,658700,227000,715,1,0,60,0.077,6.5,Education,Graduate,Bengaluru,Approved,No Default,Medium Risk
+LOAN20489,CUST10489,16-08-2024,55,Self-Employed,384500,179000,598,1,235600,60,0.713,13.38,Medical,Graduate,Ahmedabad,Approved,No Default,High Risk
+LOAN20490,CUST10490,14-01-2023,47,Contract,262900,82000,696,3,156700,60,0.666,11.32,Personal,Postgraduate,Bengaluru,Rejected,Not Applicable,High Risk
+LOAN20491,CUST10491,22-03-2023,38,Self-Employed,897800,199000,762,3,580100,60,0.696,9.35,Business,Postgraduate,Delhi,Rejected,Not Applicable,High Risk
+LOAN20492,CUST10492,26-07-2023,53,Self-Employed,373300,243000,655,2,193100,36,0.743,11.62,Home,Postgraduate,Ahmedabad,Rejected,Not Applicable,High Risk
+LOAN20493,CUST10493,23-07-2023,39,Salaried,780700,341000,701,0,461000,36,0.752,10.69,Business,Graduate,Mumbai,Approved,No Default,High Risk
+LOAN20494,CUST10494,14-01-2024,29,Self-Employed,809100,59000,720,0,450300,36,0.583,10.69,Vehicle,Graduate,Coimbatore,Approved,No Default,Medium Risk
+LOAN20495,CUST10495,22-02-2025,53,Salaried,247600,50000,598,0,98700,36,0.47,11.56,Education,Diploma,Kochi,Rejected,Not Applicable,High Risk
+LOAN20496,CUST10496,27-06-2024,43,Business Owner,565600,296000,673,1,231600,36,0.599,11.51,Personal,Graduate,Coimbatore,Rejected,Not Applicable,Medium Risk
+LOAN20497,CUST10497,23-01-2023,28,Self-Employed,1149500,380000,604,0,370000,60,0.39,13.69,Business,Postgraduate,Kolkata,Rejected,Not Applicable,High Risk
+LOAN20498,CUST10498,05-09-2024,36,Business Owner,488900,133000,712,1,273700,60,0.618,10.61,Personal,Graduate,Mumbai,Rejected,Not Applicable,High Risk
+LOAN20499,CUST10499,11-06-2023,29,Salaried,453700,73000,579,1,121300,84,0.293,10.92,Business,Postgraduate,Bengaluru,Rejected,Not Applicable,High Risk
+LOAN20500,CUST10500,01-09-2024,24,Salaried,707800,240000,772,3,246500,36,0.467,7.91,Business,Diploma,Chennai Central,Approved,No Default,Medium Risk
+LOAN20501,CUST10501,24-05-2023,47,Business Owner,1140400,549000,708,1,365500,60,0.423,10.31,Education,High School,Bengaluru,Approved,No Default,Medium Risk
+LOAN20502,CUST10502,18-07-2025,57,Salaried,502500,226000,658,0,168800,60,0.436,12.6,Vehicle,Postgraduate,Bengaluru,Rejected,Not Applicable,Medium Risk
+LOAN20503,CUST10503,14-04-2023,24,Salaried,425600,91000,628,0,152000,60,0.403,10.69,Home,Graduate,Delhi,Rejected,Not Applicable,High Risk
+LOAN20504,CUST10504,17-01-2024,44,Salaried,1122300,389000,714,1,109600,36,0.22,7.41,Business,Graduate,Bengaluru,Approved,No Default,Medium Risk
+LOAN20505,CUST10505,30-03-2024,31,Unemployed,472800,174000,685,1,287200,36,0.739,13.09,Home,High School,Chennai Central,Rejected,Not Applicable,High Risk
+LOAN20506,CUST10506,21-02-2024,33,Business Owner,1252600,416000,600,1,352400,12,0.639,14.87,Business,Graduate,Chennai Central,Approved,No Default,High Risk
+LOAN20507,CUST10507,20-11-2023,32,Salaried,590700,176000,749,1,263100,36,0.553,10.44,Vehicle,Graduate,Kochi,Approved,No Default,Medium Risk
+LOAN20508,CUST10508,20-06-2023,29,Salaried,384700,199000,677,0,74800,60,0.308,10.49,Vehicle,Graduate,Pune,Rejected,Not Applicable,Medium Risk
+LOAN20509,CUST10509,29-07-2024,38,Salaried,380600,272000,592,2,40600,12,0.872,13.98,Home,Graduate,Hyderabad,Rejected,Not Applicable,High Risk
+LOAN20510,CUST10510,25-01-2025,30,Business Owner,764569,304000,654,0,207700,36,0.318,11.14,Vehicle,Graduate,Ahmedabad,Rejected,Not Applicable,Medium Risk
+LOAN20511,CUST10511,05-08-2024,41,Self-Employed,792100,113000,780,2,380000,60,0.51,9.61,Business,Postgraduate,Chennai Central,Approved,No Default,Medium Risk
+LOAN20512,CUST10512,01-10-2023,37,Salaried,1111100,201000,676,0,147500,60,0.171,9.84,Home,Graduate,Kolkata,Approved,No Default,Medium Risk
+LOAN20513,CUST10513,27-03-2024,36,Salaried,774800,50000,633,2,509400,48,0.675,11.64,Vehicle,Graduate,Pune,Rejected,Not Applicable,High Risk
+LOAN20514,CUST10514,30-05-2025,29,Salaried,275600,50000,710,1,25500,60,0.132,9.07,Home,High School,Bengaluru,Approved,No Default,Medium Risk
+LOAN20515,CUST10515,05-05-2023,32,Self-Employed,1073700,169000,733,1,212400,36,0.254,8.85,Vehicle,Diploma,Pune,Approved,No Default,Medium Risk
+LOAN20516,CUST10516,18-01-2024,46,Business Owner,485000,156000,612,2,74900,24,0.321,10.73,Home,Diploma,Coimbatore,Rejected,Not Applicable,High Risk
+LOAN20517,CUST10517,13-11-2023,43,Salaried,471600,88000,679,3,24300,36,0.117,9.56,Education,Graduate,Mumbai,Rejected,Not Applicable,Medium Risk
+LOAN20518,CUST10518,22-04-2025,28,Salaried,639400,217000,627,1,289700,60,0.525,11.52,Business,Postgraduate,Ahmedabad,Approved,No Default,High Risk
+LOAN20519,CUST10519,17-04-2023,39,Salaried,1477800,450000,824,1,842600,84,0.616,8.79,Vehicle,Graduate,Bengaluru,Rejected,Not Applicable,High Risk
+LOAN20520,CUST10520,21-10-2024,46,Unemployed,913000,245000,708,1,357200,24,0.538,10.87,Education,Graduate,Hyderabad,Approved,No Default,Medium Risk
+LOAN20521,CUST10521,25-06-2025,21,Salaried,758700,169000,724,1,112000,60,0.194,9.32,Personal,Graduate,Chennai Central,Approved,No Default,Medium Risk
+LOAN20522,CUST10522,07-04-2024,43,Business Owner,717100,143000,705,3,131100,36,0.256,9.06,Home,Graduate,Bengaluru,Approved,No Default,Medium Risk
+LOAN20523,CUST10523,05-03-2024,31,Self-Employed,837500,326000,789,0,269800,60,0.404,8.88,Education,Diploma,Bengaluru,Rejected,Not Applicable,Medium Risk
+LOAN20524,CUST10524,04-12-2024,44,Salaried,868200,371000,705,1,530400,12,1.063,13.21,Personal,High School,Ahmedabad,Rejected,Not Applicable,High Risk
+LOAN20525,CUST10525,03-12-2023,30,Salaried,486100,50000,603,1,98900,36,0.24,11.99,Education,Diploma,Chennai Central,Approved,No Default,High Risk
+LOAN20526,CUST10526,07-01-2025,21,Salaried,1342200,307000,775,1,616000,60,0.507,9.42,Personal,Graduate,Mumbai,Rejected,Not Applicable,Medium Risk
+LOAN20527,CUST10527,23-01-2025,22,Self-Employed,723700,164000,796,0,190900,60,0.314,8.51,Vehicle,Graduate,Delhi,Rejected,Not Applicable,Low Risk
+LOAN20528,CUST10528,10-05-2024,38,Business Owner,994300,234000,656,2,236500,48,0.299,10.15,Personal,Graduate,Ahmedabad,Rejected,Not Applicable,Medium Risk
+LOAN20529,CUST10529,29-08-2025,41,Self-Employed,892100,219000,677,1,268700,36,0.389,12.53,Medical,Postgraduate,Kolkata,Approved,No Default,Medium Risk
+LOAN20530,CUST10530,28-12-2023,29,Self-Employed,793300,409000,711,0,100400,36,0.317,9.52,Home,Graduate,Coimbatore,Approved,No Default,Medium Risk
+LOAN20531,CUST10531,06-03-2025,44,Salaried,848100,125000,700,2,454500,36,0.63,11.92,Vehicle,Diploma,Kolkata,Approved,Default,High Risk
+LOAN20532,CUST10532,07-03-2024,21,Unemployed,152600,50000,522,1,45100,60,0.365,12.77,Education,Graduate,Kochi,Rejected,Not Applicable,High Risk
+LOAN20533,CUST10533,05-11-2024,37,Business Owner,598900,159000,736,1,325900,84,0.585,10.49,Home,Postgraduate,Kolkata,Approved,No Default,Medium Risk
+LOAN20534,CUST10534,03-06-2024,26,Salaried,334400,142000,781,1,22700,48,0.184,8.05,Business,Postgraduate,Coimbatore,Approved,No Default,Low Risk
+LOAN20535,CUST10535,08-05-2025,31,Unemployed,253400,50000,597,2,143500,36,0.64,13.34,Personal,Diploma,Chennai Central,Rejected,Not Applicable,High Risk
+LOAN20536,CUST10536,10-02-2024,38,Self-Employed,941800,164000,652,2,178000,72,0.221,9.57,Vehicle,Diploma,Mumbai,Approved,No Default,Medium Risk
+LOAN20537,CUST10537,12-01-2024,29,Self-Employed,807200,250000,604,0,480600,48,0.678,13.25,Vehicle,Postgraduate,Pune,Rejected,Not Applicable,High Risk
+LOAN20538,CUST10538,01-06-2023,34,Business Owner,1749200,709000,799,0,900000,60,0.605,8.75,Home,Graduate,Hyderabad,Approved,No Default,High Risk
+LOAN20539,CUST10539,18-11-2023,48,Business Owner,780900,290000,752,3,527300,36,0.803,11.43,Personal,Graduate,Hyderabad,Approved,No Default,High Risk
+LOAN20540,CUST10540,29-08-2024,32,Self-Employed,893300,348000,724,0,295500,60,0.411,9.01,Business,Postgraduate,Delhi,Approved,No Default,Medium Risk
+LOAN20541,CUST10541,02-08-2023,46,Salaried,335700,119000,654,0,164100,60,0.567,11.84,Personal,Diploma,Kolkata,Rejected,Not Applicable,Medium Risk
+LOAN20542,CUST10542,29-07-2024,27,Salaried,470900,110000,634,0,128800,60,0.322,10.96,Education,Graduate,Chennai Central,Rejected,Not Applicable,High Risk
+LOAN20543,CUST10543,06-03-2023,43,Contract,618300,136000,596,1,75900,60,0.168,12.53,Personal,Graduate,Coimbatore,Approved,No Default,High Risk
+LOAN20544,CUST10544,11-06-2025,52,Salaried,852300,86000,749,0,271100,36,0.353,9.93,Vehicle,Diploma,Coimbatore,Approved,No Default,Medium Risk
+LOAN20545,CUST10545,27-09-2023,21,Salaried,492400,118000,719,2,108500,60,0.272,10.34,Personal,Graduate,Kolkata,Approved,No Default,Medium Risk
+LOAN20546,CUST10546,20-06-2024,30,Salaried,547800,210000,589,0,361300,60,0.744,12.85,Vehicle,Graduate,Kolkata,Rejected,Not Applicable,High Risk
+LOAN20547,CUST10547,22-09-2025,44,Salaried,273600,108000,735,0,30300,36,0.254,8.58,Vehicle,Graduate,Coimbatore,Approved,No Default,Medium Risk
+LOAN20548,CUST10548,10-04-2023,36,Contract,545900,223000,696,2,216200,36,0.539,10.73,Personal,Postgraduate,Delhi,Rejected,Not Applicable,Medium Risk
+LOAN20549,CUST10549,15-04-2023,42,Contract,678900,377000,739,0,297400,12,1.035,12.85,Business,High School,Bengaluru,Rejected,Not Applicable,High Risk
+LOAN20550,CUST10550,11-05-2023,32,Salaried,747300,402000,620,2,297400,48,0.548,12.43,Home,Graduate,Delhi,Approved,No Default,High Risk
+LOAN20551,CUST10551,24-01-2024,39,Salaried,721000,335000,616,1,337700,36,0.639,11.97,Medical,Graduate,Coimbatore,Approved,No Default,High Risk
+LOAN20552,CUST10552,17-11-2023,36,Salaried,580700,171000,669,1,61200,60,0.168,9.16,Vehicle,Graduate,Ahmedabad,Rejected,Not Applicable,Medium Risk
+LOAN20553,CUST10553,13-03-2024,50,Contract,444300,99000,667,3,178300,36,0.484,11.99,Personal,Graduate,Kochi,Approved,No Default,Medium Risk
+LOAN20554,CUST10554,19-01-2023,41,Self-Employed,472000,96000,756,3,116900,72,0.285,8.96,Business,Postgraduate,Bengaluru,Approved,No Default,Low Risk
+LOAN20555,CUST10555,13-08-2023,41,Salaried,793000,293000,737,0,461800,36,0.71,10.72,Vehicle,Postgraduate,Pune,Approved,Default,High Risk
+LOAN20556,CUST10556,09-09-2024,34,Business Owner,958300,245000,695,3,490300,36,0.6,10.96,Business,Graduate,Hyderabad,Rejected,Not Applicable,Medium Risk
+LOAN20557,CUST10557,19-07-2024,33,Contract,560800,336000,594,2,301200,48,0.694,13.9,Home,Postgraduate,Chennai Central,Rejected,Not Applicable,High Risk
+LOAN20558,CUST10558,16-09-2025,34,Contract,344000,50000,697,1,37000,48,0.147,8.3,Home,Postgraduate,Bengaluru,Approved,No Default,Medium Risk
+LOAN20559,CUST10559,04-04-2024,42,Contract,157500,50000,558,0,51300,36,0.436,12.84,Personal,Graduate,Chennai Central,Rejected,Not Applicable,High Risk
+LOAN20560,CUST10560,29-01-2024,34,Salaried,960100,308000,803,1,179300,36,0.302,7.94,Business,Graduate,Ahmedabad,Approved,No Default,Low Risk
+LOAN20561,CUST10561,14-08-2023,41,Business Owner,622200,294000,661,1,25400,36,0.204,9.02,Business,High School,Hyderabad,Rejected,Not Applicable,Medium Risk
+LOAN20562,CUST10562,30-06-2025,59,Salaried,374700,127000,745,1,80900,60,0.291,8.69,Personal,Graduate,Hyderabad,Approved,No Default,Medium Risk
+LOAN20563,CUST10563,26-12-2023,47,Contract,617700,282000,693,0,318100,60,0.612,12.9,Vehicle,Postgraduate,Kolkata,Approved,No Default,High Risk
+LOAN20564,CUST10564,05-03-2024,35,Business Owner,648700,141000,671,0,157700,48,0.304,9.57,Vehicle,Graduate,Mumbai,Approved,No Default,Medium Risk
+LOAN20565,CUST10565,13-07-2025,50,Business Owner,1302300,604000,713,4,462100,60,0.458,10.2,Medical,Diploma,Chennai Central,Approved,No Default,Medium Risk
+LOAN20566,CUST10566,15-01-2023,34,Self-Employed,871400,189000,677,1,511200,60,0.631,9.78,Education,Postgraduate,Hyderabad,Approved,No Default,High Risk
+LOAN20567,CUST10567,13-07-2024,21,Salaried,787200,466000,721,1,394800,24,0.819,11.29,Personal,Postgraduate,Chennai Central,Rejected,Not Applicable,High Risk
+LOAN20568,CUST10568,12-10-2024,28,Self-Employed,336400,193000,648,1,59000,84,0.26,9.62,Vehicle,Diploma,Chennai Central,Rejected,Not Applicable,High Risk
+LOAN20569,CUST10569,29-06-2024,21,Unemployed,367100,93000,564,1,92300,60,0.308,11.9,Personal,High School,Chennai Central,Rejected,Not Applicable,High Risk
+LOAN20570,CUST10570,20-07-2025,34,Contract,502000,229000,636,0,195800,36,0.554,12.21,Vehicle,Postgraduate,Pune,Rejected,Not Applicable,High Risk
+LOAN20571,CUST10571,18-02-2024,38,Salaried,474900,146000,671,1,98600,36,0.314,9.38,Medical,Graduate,Bengaluru,Rejected,Not Applicable,Medium Risk
+LOAN20572,CUST10572,21-12-2023,55,Salaried,607400,50000,563,2,270700,24,0.488,13.11,Personal,Graduate,Mumbai,Approved,No Default,High Risk
+LOAN20573,CUST10573,01-04-2024,41,Salaried,241700,50000,670,2,27200,24,0.223,9.31,Medical,Postgraduate,Ahmedabad,Approved,No Default,Medium Risk
+LOAN20574,CUST10574,22-12-2024,36,Business Owner,952700,381000,654,1,533600,60,0.649,10.86,Home,Postgraduate,Mumbai,Rejected,Not Applicable,High Risk
+LOAN20575,CUST10575,14-06-2024,46,Business Owner,477700,85000,599,4,226000,48,0.522,13.19,Personal,Graduate,Ahmedabad,Approved,No Default,High Risk
+LOAN20576,CUST10576,25-09-2025,21,Salaried,296200,50000,557,1,131600,60,0.482,12.23,Personal,Graduate,Delhi,Rejected,Not Applicable,High Risk
+LOAN20577,CUST10577,15-07-2023,40,,312000,51000,543,1,63500,60,0.238,11.94,Personal,Postgraduate,Mumbai,Rejected,Not Applicable,High Risk
+LOAN20578,CUST10578,17-04-2025,46,Contract,755400,287000,595,0,107300,60,0.221,10.82,Business,Graduate,Coimbatore,Rejected,Not Applicable,High Risk
+LOAN20579,CUST10579,25-04-2023,23,Business Owner,578900,151000,633,0,246900,60,0.485,11.82,Home,Graduate,Chennai Central,Rejected,Not Applicable,High Risk
+LOAN20580,CUST10580,21-02-2024,49,Self-Employed,1353000,492000,849,2,493100,12,0.74,8.8,Home,Postgraduate,Chennai Central,Rejected,Not Applicable,High Risk
+LOAN20581,CUST10581,18-12-2023,41,Self-Employed,501100,173000,631,0,82600,36,0.293,10.78,Vehicle,Postgraduate,Pune,Rejected,Not Applicable,High Risk
+LOAN20582,CUST10582,02-09-2025,34,Self-Employed,285500,81000,649,0,51600,60,0.241,9.82,Home,Graduate,Delhi,Rejected,Not Applicable,High Risk
+LOAN20583,CUST10583,16-03-2023,44,Salaried,331800,83000,675,1,49500,12,0.407,10.37,Medical,Graduate,Kochi,Rejected,Not Applicable,Medium Risk
+LOAN20584,CUST10584,23-10-2024,61,Self-Employed,1172700,443000,732,1,578800,12,0.906,11.78,Education,Graduate,Ahmedabad,Rejected,Not Applicable,High Risk
+LOAN20585,CUST10585,05-02-2023,40,Business Owner,726500,50000,682,1,104700,72,0.157,9.55,Vehicle,Graduate,Mumbai,Rejected,Not Applicable,Medium Risk
+LOAN20586,CUST10586,30-08-2023,40,Contract,340300,108000,563,1,99400,60,0.363,13.32,Home,Postgraduate,Pune,Approved,Default,High Risk
+LOAN20587,CUST10587,24-10-2024,33,Self-Employed,699700,87000,759,1,206500,36,0.338,9.4,Vehicle,Graduate,Delhi,Rejected,Not Applicable,Low Risk
+LOAN20588,CUST10588,04-03-2023,30,Business Owner,996200,289000,812,2,405400,60,0.468,9.24,Vehicle,Graduate,Kolkata,Approved,No Default,Medium Risk
+LOAN20589,CUST10589,27-10-2024,46,Salaried,969400,475000,622,2,538800,60,0.662,13.63,Home,Graduate,Kochi,Rejected,Not Applicable,High Risk
+LOAN20590,CUST10590,23-05-2024,29,Salaried,1136400,147000,675,0,692100,36,0.656,11.72,Vehicle,Graduate,Ahmedabad,Approved,No Default,High Risk
+LOAN20591,CUST10591,07-07-2023,39,Salaried,477100,172000,652,0,178700,12,0.77,13.13,Vehicle,High School,Hyderabad,Rejected,Not Applicable,High Risk
+LOAN20592,CUST10592,04-01-2025,33,Salaried,300000,237000,597,2,38000,72,0.264,11.68,Medical,Graduate,Kochi,Approved,Default,High Risk
+LOAN20593,CUST10593,03-04-2023,43,Business Owner,642100,92000,706,3,193400,36,0.355,10.87,Education,Diploma,Hyderabad,Rejected,Not Applicable,Medium Risk
+LOAN20594,CUST10594,05-01-2023,41,Unemployed,232500,123000,544,2,134000,24,0.864,13.36,Personal,Diploma,Bengaluru,Rejected,Not Applicable,High Risk
+LOAN20595,CUST10595,13-03-2024,48,Salaried,357000,164000,775,2,131900,48,0.497,8.88,Medical,Graduate,Kolkata,Approved,No Default,Medium Risk
+LOAN20596,CUST10596,15-06-2023,33,Salaried,358100,141000,721,2,157100,60,0.524,10.54,Business,Postgraduate,Chennai Central,Rejected,Not Applicable,Medium Risk
+LOAN20597,CUST10597,21-03-2024,35,Business Owner,923500,86000,717,1,135800,36,0.18,9.37,Medical,Graduate,Kolkata,Rejected,Not Applicable,Medium Risk
+LOAN20598,CUST10598,25-01-2023,28,Salaried,553900,97000,731,,260100,36,0.535,10.07,Medical,Postgraduate,Bengaluru,Rejected,Not Applicable,Medium Risk
+LOAN20599,CUST10599,22-05-2024,34,Self-Employed,658300,228000,736,0,121000,36,0.309,7.76,Vehicle,Graduate,Kochi,Approved,No Default,Medium Risk
+LOAN20600,CUST10600,08-04-2023,42,Business Owner,544100,265000,638,2,260300,84,0.555,11.7,Personal,Diploma,Hyderabad,Approved,No Default,High Risk
+LOAN20601,CUST10601,25-09-2023,46,Self-Employed,580200,195000,622,0,133700,36,0.355,11.98,Home,Graduate,Hyderabad,Rejected,Not Applicable,High Risk
+LOAN20602,CUST10602,23-10-2024,29,Salaried,363800,57000,661,0,189100,60,0.554,11.17,Vehicle,Diploma,Bengaluru,Approved,No Default,Medium Risk
+LOAN20603,CUST10603,28-01-2024,47,Salaried,869300,273000,753,2,86300,72,0.156,8.24,Business,Graduate,Delhi,Approved,No Default,Low Risk
+LOAN20604,CUST10604,02-02-2025,52,Business Owner,1287000,675000,748,1,369500,24,0.557,11.4,Vehicle,Diploma,Hyderabad,Approved,No Default,Medium Risk
+LOAN20605,CUST10605,18-08-2024,42,Self-Employed,267100,147000,550,0,86700,84,0.406,12.67,Personal,Graduate,Pune,Rejected,Not Applicable,High Risk
+LOAN20606,CUST10606,12-10-2023,57,Salaried,362900,140000,612,1,62400,84,0.23,10.88,Personal,Postgraduate,Chennai Central,Approved,No Default,High Risk
+LOAN20607,CUST10607,14-11-2024,30,Business Owner,381800,96000,649,1,216900,72,0.612,12.02,Education,Graduate,Chennai Central,Rejected,Not Applicable,High Risk
+LOAN20608,CUST10608,02-01-2025,26,Salaried,415000,50000,657,0,222900,36,0.579,11.78,Business,Graduate,Chennai Central,Rejected,Not Applicable,Medium Risk
+LOAN20609,CUST10609,19-04-2023,21,Business Owner,752300,259000,797,1,272900,60,0.436,8.6,Vehicle,Postgraduate,Mumbai,Rejected,Not Applicable,Medium Risk
+LOAN20610,CUST10610,27-01-2023,53,Salaried,282700,121000,572,1,63400,60,0.315,12.38,Education,High School,Kochi,Rejected,Not Applicable,High Risk
+LOAN20611,CUST10611,27-01-2025,45,Unemployed,131800,50000,602,2,35000,84,0.323,10.61,Business,Graduate,Ahmedabad,Rejected,Not Applicable,High Risk
+LOAN20612,CUST10612,24-02-2023,37,Salaried,350200,50000,737,1,176900,36,0.555,9.96,Vehicle,Diploma,Bengaluru,Approved,No Default,Medium Risk
+LOAN20613,CUST10613,03-09-2025,41,Salaried,626300,381000,807,2,208000,60,0.458,7.42,Personal,Postgraduate,Delhi,Approved,No Default,Medium Risk
+LOAN20614,CUST10614,13-05-2023,27,Salaried,586200,50000,656,1,252200,36,0.461,11.18,Personal,Diploma,Coimbatore,Approved,No Default,Medium Risk
+LOAN20615,CUST10615,21-02-2023,62,Salaried,401000,234000,687,1,138400,36,0.555,11.44,Vehicle,Graduate,Hyderabad,Approved,No Default,Medium Risk
+LOAN20616,CUST10616,07-05-2024,39,Contract,482000,185000,674,1,72500,48,0.253,9.87,Business,Graduate,Mumbai,Approved,No Default,Medium Risk
+LOAN20617,CUST10617,03-02-2025,39,Unemployed,157800,62000,587,1,0,60,0.085,10.12,Personal,Diploma,Delhi,Rejected,Not Applicable,High Risk
+LOAN20618,CUST10618,19-02-2025,45,Salaried,497700,239000,664,1,4300,48,0.141,9.37,Vehicle,Graduate,Bengaluru,Rejected,Not Applicable,Medium Risk
+LOAN20619,CUST10619,25-10-2023,43,Salaried,1266000,472000,767,1,335300,60,0.345,10.11,Home,Postgraduate,Chennai Central,Approved,No Default,Low Risk
+LOAN20620,CUST10620,03-02-2024,40,Business Owner,1490000,522000,621,0,753600,84,0.56,13.32,Business,Graduate,Bengaluru,Rejected,Not Applicable,High Risk
+LOAN20621,CUST10621,13-08-2024,30,Contract,237300,50000,657,1,127600,36,0.616,11.3,Home,Graduate,Pune,Approved,No Default,High Risk
+LOAN20622,CUST10622,18-01-2023,43,Self-Employed,965000,305000,711,0,159200,60,0.235,8.8,Business,Postgraduate,Chennai Central,Approved,Default,Medium Risk
+LOAN20623,CUST10623,28-03-2025,57,Salaried,837000,333000,690,4,530800,36,0.776,11.7,Vehicle,Postgraduate,Bengaluru,Approved,No Default,High Risk
+LOAN20624,CUST10624,08-02-2025,51,Salaried,326700,50000,765,1,121800,36,0.428,10.04,Personal,Postgraduate,Hyderabad,Rejected,Not Applicable,Medium Risk
+LOAN20625,CUST10625,04-05-2025,54,Business Owner,1160000,183000,691,2,703500,60,0.639,9.82,Business,Graduate,Chennai Central,Rejected,Not Applicable,High Risk
+LOAN20626,CUST10626,10-09-2024,33,Salaried,1186300,288000,714,1,565200,72,0.52,9.88,Home,Graduate,Bengaluru,Approved,No Default,Medium Risk
+LOAN20627,CUST10627,27-06-2025,28,Self-Employed,378100,89000,757,0,204500,60,0.594,10.18,Personal,Graduate,Ahmedabad,Rejected,Not Applicable,Medium Risk
+LOAN20628,CUST10628,21-08-2025,37,Salaried,365000,108000,611,0,37500,60,0.166,11,Personal,Graduate,Chennai Central,Rejected,Not Applicable,High Risk
+LOAN20629,CUST10629,12-07-2024,39,Business Owner,1276200,583000,709,3,207800,24,0.417,9.66,Personal,Diploma,Pune,Approved,No Default,Medium Risk
+LOAN20630,CUST10630,03-09-2023,49,Salaried,645900,317000,676,,20400,36,0.206,9.55,Vehicle,Diploma,Mumbai,Approved,No Default,Medium Risk
+LOAN20631,CUST10631,17-05-2024,21,Self-Employed,844400,347000,739,0,355600,60,0.513,10.12,Personal,Graduate,Pune,Rejected,Not Applicable,Medium Risk
+LOAN20632,CUST10632,30-03-2023,53,Self-Employed,763100,299000,696,2,246500,12,0.747,11.23,Personal,Diploma,Delhi,Rejected,Not Applicable,High Risk
+LOAN20633,CUST10633,22-07-2023,36,Self-Employed,781700,326000,616,0,429600,36,0.693,11.93,Business,Graduate,Bengaluru,Rejected,Not Applicable,High Risk
+LOAN20634,CUST10634,03-08-2025,34,Salaried,300000,100000,621,0,55300,60,0.257,10.8,Personal,Postgraduate,Ahmedabad,Rejected,Not Applicable,High Risk
+LOAN20635,CUST10635,28-08-2023,28,Self-Employed,1071300,216000,681,0,573200,12,0.748,11.98,Vehicle,,Delhi,Rejected,Not Applicable,High Risk
+LOAN20636,CUST10636,04-05-2024,21,Self-Employed,1136000,218000,717,0,130000,36,0.181,7.22,Medical,Postgraduate,Kochi,Rejected,Not Applicable,Medium Risk
+LOAN20637,CUST10637,18-02-2025,46,Self-Employed,580400,272000,691,3,128000,60,0.324,10.27,Vehicle,Graduate,Mumbai,Approved,No Default,Medium Risk
+LOAN20638,CUST10638,13-01-2023,39,Self-Employed,634600,306000,696,1,126000,60,0.3,10.55,Home,Graduate,Kolkata,Approved,No Default,Medium Risk
+LOAN20639,CUST10639,10-10-2024,25,Self-Employed,310700,50000,544,2,94500,72,0.334,12.36,Vehicle,Graduate,Kochi,Rejected,Not Applicable,High Risk
+LOAN20640,CUST10640,11-11-2023,25,Business Owner,1002200,74000,771,1,257100,60,0.272,8.04,Home,Graduate,Kolkata,Rejected,Not Applicable,Low Risk
+LOAN20641,CUST10641,15-11-2024,35,Salaried,746200,360000,707,2,399900,48,0.662,10.43,Home,Graduate,Delhi,Approved,No Default,High Risk
+LOAN20642,CUST10642,11-01-2025,55,Business Owner,760000,207000,766,1,79600,72,0.155,7.81,Education,Graduate,Mumbai,Approved,No Default,Low Risk
+LOAN20643,CUST10643,17-07-2023,35,Self-Employed,1111600,462000,743,0,245900,60,0.31,8.52,Home,Graduate,Coimbatore,Approved,No Default,Medium Risk
+LOAN20644,CUST10644,31-08-2023,23,Salaried,483000,181000,728,0,260500,36,0.675,11.85,Personal,Postgraduate,Ahmedabad,Rejected,Not Applicable,High Risk
+LOAN20645,CUST10645,21-05-2024,36,Salaried,743500,324000,719,0,42700,24,0.294,9.43,Home,Graduate,Kolkata,Rejected,Not Applicable,Medium Risk
+LOAN20646,CUST10646,12-02-2023,35,Salaried,347600,58000,729,2,215900,60,0.657,8.89,Education,Postgraduate,Hyderabad,Rejected,Not Applicable,High Risk
+LOAN20647,CUST10647,26-11-2023,21,Business Owner,774200,341000,720,1,532700,60,0.786,11.74,Home,Graduate,Kochi,Rejected,Not Applicable,High Risk
+LOAN20648,CUST10648,01-03-2025,37,Business Owner,720100,194000,680,0,30800,60,0.102,10.64,Home,High School,Bengaluru,Rejected,Not Applicable,Medium Risk
+LOAN20649,CUST10649,13-08-2024,36,Business Owner,872400,326000,825,0,176100,60,0.282,7.78,Education,High School,Delhi,Approved,No Default,Low Risk
+LOAN20650,CUST10650,04-03-2024,45,Self-Employed,542700,89000,713,1,134600,60,0.284,10.36,Personal,Graduate,Bengaluru,Rejected,Not Applicable,Medium Risk
+LOAN20651,CUST10651,01-03-2025,56,Salaried,532300,116000,704,1,265000,84,0.53,11.09,Medical,Postgraduate,Hyderabad,Approved,No Default,Medium Risk
+LOAN20652,CUST10652,13-01-2025,49,Salaried,842900,283000,632,1,362000,60,0.502,12.52,Business,Graduate,Kolkata,Rejected,Not Applicable,High Risk
+LOAN20653,CUST10653,04-09-2024,35,Salaried,459800,123000,595,0,196400,24,0.576,13.45,Business,High School,Bengaluru,Rejected,Not Applicable,High Risk
+LOAN20654,CUST10654,11-06-2023,27,Salaried,262200,113000,663,0,142700,60,0.638,12.48,Home,Graduate,Pune,Rejected,Not Applicable,High Risk
+LOAN20655,CUST10655,17-10-2024,64,Salaried,1313100,582000,756,1,143000,36,0.272,8.83,Education,Graduate,Pune,Rejected,Not Applicable,Low Risk
+LOAN20656,CUST10656,16-08-2025,39,Salaried,1100400,405000,694,2,610900,60,0.635,9.78,Home,Graduate,Chennai Central,Rejected,Not Applicable,High Risk
+LOAN20657,CUST10657,12-09-2024,38,Self-Employed,348500,50000,653,1,184400,84,0.552,10.68,Personal,Graduate,Hyderabad,Rejected,Not Applicable,Medium Risk
+LOAN20658,CUST10658,10-03-2024,38,Business Owner,1090300,559000,809,0,413900,60,0.494,7.66,Home,Graduate,Delhi,Approved,No Default,Medium Risk
+LOAN20659,CUST10659,21-08-2023,40,Unemployed,161200,50000,615,0,113600,60,0.77,11.09,Personal,Postgraduate,Bengaluru,Rejected,Not Applicable,High Risk
+LOAN20660,CUST10660,21-04-2023,37,Contract,502500,249000,582,1,237600,48,0.602,12.69,Education,Graduate,Kochi,Rejected,Not Applicable,High Risk
+LOAN20661,CUST10661,16-07-2025,32,Self-Employed,746300,435000,677,0,153800,36,0.415,11.71,Education,Graduate,Kolkata,Rejected,Not Applicable,Medium Risk
+LOAN20662,CUST10662,22-07-2025,33,Salaried,506700,249000,626,1,151000,36,0.477,10.59,Medical,Graduate,Bengaluru,Rejected,Not Applicable,High Risk
+LOAN20663,CUST10663,20-08-2023,38,Self-Employed,444800,148000,633,2,163600,60,0.438,12.04,Personal,Graduate,Bengaluru,Rejected,Not Applicable,High Risk
+LOAN20664,CUST10664,09-08-2025,33,Business Owner,562100,99000,648,0,45700,60,0.118,10.33,Business,Graduate,Mumbai,Rejected,Not Applicable,High Risk
+LOAN20665,CUST10665,19-01-2025,31,Salaried,365300,66000,630,0,225100,60,0.655,12.56,Personal,Diploma,Coimbatore,Rejected,Not Applicable,High Risk
+LOAN20666,CUST10666,09-12-2024,39,Salaried,380300,107000,589,4,54800,36,0.249,12.44,Business,Graduate,Hyderabad,Rejected,Not Applicable,High Risk
+LOAN20667,CUST10667,30-09-2023,35,Contract,428700,50000,631,0,214300,48,0.532,11.84,Personal,Postgraduate,Chennai Central,Rejected,Not Applicable,High Risk
+LOAN20668,CUST10668,20-08-2024,53,Salaried,402100,121000,629,1,111000,60,0.34,12.36,Medical,Graduate,Delhi,Rejected,Not Applicable,High Risk
+LOAN20669,CUST10669,17-03-2025,21,Self-Employed,899000,109000,537,0,94600,48,0.137,11.82,Education,Graduate,Kolkata,Rejected,Not Applicable,High Risk
+LOAN20670,CUST10670,10-02-2023,49,Self-Employed,1323100,181000,850,0,753800,60,0.599,8.47,Personal,Postgraduate,Mumbai,Approved,No Default,Medium Risk
+LOAN20671,CUST10671,13-07-2024,50,Salaried,429200,206000,723,3,223700,60,0.622,10.46,Personal,Graduate,Mumbai,Approved,No Default,High Risk
+LOAN20672,CUST10672,10-04-2024,21,Salaried,636000,274000,662,0,229500,60,0.45,10.25,Vehicle,Graduate,Kolkata,Rejected,Not Applicable,Medium Risk
+LOAN20673,CUST10673,12-07-2025,35,Salaried,720700,392000,692,1,145300,48,0.353,8.98,Business,Postgraduate,Coimbatore,Approved,No Default,Medium Risk
+LOAN20674,CUST10674,18-03-2023,34,Salaried,711200,278000,625,0,126900,72,0.251,11.32,Medical,Graduate,Coimbatore,Approved,No Default,High Risk
+LOAN20675,CUST10675,20-11-2024,24,Salaried,588100,222000,771,0,111200,36,0.321,9.58,Vehicle,Graduate,Delhi,Rejected,Not Applicable,Low Risk
+LOAN20676,CUST10676,04-05-2024,30,Contract,632500,198000,762,0,115900,84,0.23,8.5,Vehicle,Postgraduate,Kolkata,Approved,No Default,Low Risk
+LOAN20677,CUST10677,07-02-2025,27,Salaried,714700,50000,699,1,199800,24,0.317,10.2,Vehicle,Postgraduate,Pune,Approved,No Default,Medium Risk
+LOAN20678,CUST10678,27-04-2023,56,Self-Employed,357700,50000,702,1,226100,12,0.782,10.35,Business,Graduate,Ahmedabad,Rejected,Not Applicable,High Risk
+LOAN20679,CUST10679,09-03-2024,47,Salaried,860500,258000,714,2,346700,72,0.455,10.38,Personal,Graduate,Coimbatore,Rejected,Not Applicable,Medium Risk
+LOAN20680,CUST10680,19-01-2023,51,Contract,677900,234000,588,1,435600,36,0.764,11.91,Home,Graduate,Coimbatore,Rejected,Not Applicable,High Risk
+LOAN20681,CUST10681,20-09-2025,45,Salaried,393100,50000,637,0,176200,60,0.475,10.58,Personal,Graduate,Hyderabad,Approved,No Default,High Risk
+LOAN20682,CUST10682,24-07-2024,27,Salaried,577400,318000,684,2,219600,60,0.501,11.86,Home,Postgraduate,Hyderabad,Rejected,Not Applicable,Medium Risk
+LOAN20683,CUST10683,15-07-2023,33,Contract,614700,177000,631,0,360500,72,0.639,12.31,Personal,Diploma,Kochi,Rejected,Not Applicable,High Risk
+LOAN20684,CUST10684,10-09-2024,43,Contract,400500,119000,623,0,122400,84,0.352,11.38,Vehicle,Diploma,Hyderabad,Rejected,Not Applicable,High Risk
+LOAN20685,CUST10685,26-03-2024,26,Salaried,949000,246000,708,1,506800,36,0.626,11.3,Vehicle,Graduate,Delhi,Rejected,Not Applicable,High Risk
+LOAN20686,CUST10686,29-02-2024,45,Business Owner,2435200,1000000,847,3,554700,60,0.319,7.77,Business,Graduate,Bengaluru,Rejected,Not Applicable,Low Risk
+LOAN20687,CUST10687,29-01-2024,36,Salaried,388800,113000,662,2,12200,24,0.194,9.74,Home,Postgraduate,Kochi,Rejected,Not Applicable,Medium Risk
+LOAN20688,CUST10688,11-10-2023,34,Self-Employed,333900,297000,585,1,220400,48,0.893,14.37,Home,Graduate,Chennai Central,Rejected,Not Applicable,High Risk
+LOAN20689,CUST10689,03-02-2023,45,Salaried,656000,199000,645,5,260000,72,0.449,11.23,Vehicle,Postgraduate,Kochi,Rejected,Not Applicable,High Risk
+LOAN20690,CUST10690,22-10-2023,42,Salaried,801700,436000,628,3,497600,36,0.816,11.83,Education,Postgraduate,Pune,Rejected,Not Applicable,High Risk
+LOAN20691,CUST10691,08-09-2023,34,Business Owner,700900,160000,738,0,417400,60,0.643,10.1,Vehicle,Diploma,Bengaluru,Rejected,Not Applicable,High Risk
+LOAN20692,CUST10692,29-09-2024,50,Self-Employed,1301700,131000,621,2,113700,60,0.109,10.69,Medical,Graduate,Delhi,Rejected,Not Applicable,High Risk
+LOAN20693,CUST10693,05-12-2023,27,Salaried,298200,185000,714,1,109800,60,0.503,9.95,Business,Graduate,Hyderabad,Approved,No Default,Medium Risk
+LOAN20694,CUST10694,09-09-2024,44,Business Owner,1092000,227000,798,1,299200,84,0.306,7.66,Business,Diploma,Hyderabad,Approved,No Default,Low Risk
+LOAN20695,CUST10695,15-03-2024,44,Business Owner,585400,137000,656,1,238300,12,0.655,12.54,Medical,Postgraduate,Hyderabad,Approved,No Default,High Risk
+LOAN20696,CUST10696,29-06-2023,35,Salaried,1294200,188000,603,2,690800,60,0.565,12.64,Vehicle,Diploma,Chennai Central,Rejected,Not Applicable,High Risk
+LOAN20697,CUST10697,13-09-2024,41,Self-Employed,1686300,624000,754,0,345100,72,0.273,8.9,Education,Graduate,Kolkata,Rejected,Not Applicable,Low Risk
+LOAN20698,CUST10698,16-08-2023,25,Salaried,392400,143000,656,0,120500,48,0.403,9.6,Education,Postgraduate,Chennai Central,Approved,No Default,Medium Risk
+LOAN20699,CUST10699,24-09-2024,47,Business Owner,601500,152000,619,1,316900,24,0.664,12.97,Business,Postgraduate,Pune,Rejected,Not Applicable,High Risk
+LOAN20700,CUST10700,10-09-2024,36,Contract,979000,346000,677,4,146100,60,0.222,8.92,Personal,Graduate,Mumbai,Approved,No Default,Medium Risk
+LOAN20701,CUST10701,04-10-2024,33,Unemployed,170400,50000,662,0,93400,36,0.649,11.76,Education,Graduate,Pune,Rejected,Not Applicable,High Risk
+LOAN20702,CUST10702,23-01-2023,48,Salaried,554800,258000,711,1,271100,24,0.74,10.41,Vehicle,Postgraduate,Hyderabad,Rejected,Not Applicable,High Risk
+LOAN20703,CUST10703,18-10-2024,31,Salaried,574000,164000,626,1,349000,72,0.658,13.21,Vehicle,Graduate,Pune,Approved,No Default,High Risk
+LOAN20704,CUST10704,23-11-2023,24,Salaried,225600,50000,555,1,90300,60,0.446,14.36,Vehicle,Graduate,Coimbatore,Approved,Default,High Risk
+LOAN20705,CUST10705,03-06-2023,22,Salaried,563200,187000,658,1,69100,72,0.181,9.86,Business,Postgraduate,Coimbatore,Rejected,Not Applicable,Medium Risk
+LOAN20706,CUST10706,10-09-2024,44,Salaried,407200,104000,649,2,118500,60,0.346,10.68,Vehicle,Graduate,Chennai Central,Rejected,Not Applicable,High Risk
+LOAN20707,CUST10707,26-05-2023,25,Contract,349500,250000,657,2,81700,60,0.39,11.66,Business,Diploma,Pune,Approved,No Default,Medium Risk
+LOAN20708,CUST10708,09-09-2023,56,Salaried,1133800,307000,701,1,741000,12,0.937,12.69,Vehicle,Graduate,Hyderabad,Rejected,Not Applicable,High Risk
+LOAN20709,CUST10709,29-10-2023,21,Salaried,310200,50000,679,2,19700,48,0.107,9.25,Personal,Graduate,Chennai Central,Rejected,Not Applicable,Medium Risk
+LOAN20710,CUST10710,11-03-2023,55,Business Owner,1156900,297000,834,2,599100,36,0.607,8.81,Medical,High School,Mumbai,Approved,No Default,High Risk
+LOAN20711,CUST10711,26-06-2024,40,Salaried,495900,106000,714,2,170900,72,0.383,11.4,Business,Diploma,Mumbai,Rejected,Not Applicable,Medium Risk
+LOAN20712,CUST10712,03-04-2023,37,Business Owner,684600,350000,680,2,206400,36,0.483,10.26,Home,Graduate,Mumbai,Approved,No Default,Medium Risk
+LOAN20713,CUST10713,10-10-2024,33,Salaried,828600,510000,691,0,14400,36,0.241,9.16,Education,Diploma,Coimbatore,Approved,No Default,Medium Risk
+LOAN20714,CUST10714,04-06-2025,42,Self-Employed,762900,283000,665,1,297400,60,0.473,11.66,Vehicle,Graduate,Hyderabad,Approved,No Default,Medium Risk
+LOAN20715,CUST10715,12-06-2023,38,Salaried,745600,276000,758,2,323600,36,0.572,11.43,Vehicle,Graduate,Hyderabad,Rejected,Not Applicable,Medium Risk
+LOAN20716,CUST10716,22-03-2023,49,Salaried,902400,382000,674,2,191000,36,0.357,10.54,Personal,Graduate,Chennai Central,Rejected,Not Applicable,Medium Risk
+LOAN20717,CUST10717,07-04-2025,39,Contract,377700,50000,635,1,230300,60,0.639,10.86,Medical,Graduate,Pune,Rejected,Not Applicable,High Risk
+LOAN20718,CUST10718,10-08-2024,40,Salaried,422600,221000,665,2,64600,24,0.424,11.14,Home,Diploma,Delhi,Approved,No Default,Medium Risk
+LOAN20719,CUST10719,04-03-2023,34,Self-Employed,384900,113000,621,1,169300,12,0.767,12.57,Vehicle,Postgraduate,Hyderabad,Rejected,Not Applicable,High Risk
+LOAN20720,CUST10720,03-09-2024,37,Salaried,381500,188000,583,0,173300,36,0.628,13.5,Home,High School,Coimbatore,Approved,Default,High Risk
+LOAN20721,CUST10721,11-03-2024,41,Salaried,2335400,1000000,850,0,252200,60,0.199,6.5,Business,Postgraduate,Delhi,Approved,No Default,Low Risk
+LOAN20722,CUST10722,17-02-2023,21,Contract,804800,308000,671,2,480200,60,0.676,10.55,Medical,,Mumbai,Rejected,Not Applicable,High Risk
+LOAN20723,CUST10723,20-03-2024,25,Salaried,296400,77000,677,1,107200,48,0.429,10.39,Vehicle,Postgraduate,Delhi,Approved,No Default,Medium Risk
+LOAN20724,CUST10724,08-07-2025,45,Self-Employed,343500,119000,615,2,83400,60,0.319,12.63,Home,High School,Pune,Approved,No Default,High Risk
+LOAN20725,CUST10725,15-03-2023,40,Unemployed,258600,50000,653,1,96900,36,0.447,10.03,Business,Postgraduate,Pune,Rejected,Not Applicable,Medium Risk
+LOAN20726,CUST10726,05-04-2025,36,Self-Employed,842700,232000,644,0,399900,72,0.524,11.35,Personal,Postgraduate,Hyderabad,Rejected,Not Applicable,High Risk
+LOAN20727,CUST10727,04-12-2024,38,Contract,576300,155000,746,2,183400,12,0.613,8.95,Vehicle,High School,Bengaluru,Approved,No Default,High Risk
+LOAN20728,CUST10728,25-06-2024,41,Salaried,501700,363000,574,0,213700,60,0.585,13.34,Business,Graduate,Bengaluru,Rejected,Not Applicable,High Risk
+LOAN20729,CUST10729,06-06-2023,33,Salaried,533900,351000,697,0,14700,72,0.143,9.3,Medical,Postgraduate,Pune,Rejected,Not Applicable,Medium Risk
+LOAN20730,CUST10730,01-05-2024,30,Salaried,663600,97000,711,1,157500,60,0.268,8.23,Personal,Diploma,Ahmedabad,Approved,No Default,Medium Risk
+LOAN20731,CUST10731,23-09-2023,40,Business Owner,150000,268000,651,,446300,36,0.66,13.05,Personal,High School,Mumbai,Rejected,Not Applicable,High Risk
+LOAN20732,CUST10732,13-09-2023,28,Unemployed,120000,58000,596,1,8000,36,0.238,9.79,Education,Graduate,Bengaluru,Rejected,Not Applicable,High Risk
+LOAN20733,CUST10733,08-02-2023,42,Salaried,507800,98000,741,0,306300,60,0.644,11.6,Personal,Graduate,Coimbatore,Approved,No Default,High Risk
+LOAN20734,CUST10734,24-02-2023,21,Self-Employed,430600,50000,531,1,76100,24,0.237,13.59,Vehicle,Postgraduate,Kochi,Rejected,Not Applicable,High Risk
+LOAN20735,CUST10735,28-01-2023,48,Salaried,616700,203000,708,0,301500,60,0.558,10.83,Education,Graduate,Ahmedabad,Approved,No Default,Medium Risk
+LOAN20736,CUST10736,02-07-2025,43,Self-Employed,2500000,685000,715,3,651300,60,0.318,10.22,Home,Postgraduate,Pune,Approved,No Default,Medium Risk
+LOAN20737,CUST10737,25-07-2025,41,Salaried,676400,180000,633,0,302800,60,0.507,11.59,Education,Graduate,Ahmedabad,Approved,No Default,High Risk
+LOAN20738,CUST10738,28-04-2023,48,Unemployed,176500,50000,668,2,13300,24,0.223,8.74,Home,Graduate,Chennai Central,Rejected,Not Applicable,Medium Risk
+LOAN20739,CUST10739,05-01-2024,55,Self-Employed,1008600,190000,677,1,70500,60,0.111,9.55,Personal,Graduate,Chennai Central,Approved,No Default,Medium Risk
+LOAN20740,CUST10740,28-07-2023,48,Salaried,300000,339000,626,1,153800,60,0.318,9.85,Personal,Graduate,Chennai Central,Approved,No Default,High Risk
+LOAN20741,CUST10741,09-08-2024,21,Salaried,693700,183000,677,3,55700,60,0.137,9.45,Personal,Graduate,Coimbatore,Rejected,Not Applicable,Medium Risk
+LOAN20742,CUST10742,30-07-2024,25,Salaried,758700,154000,808,1,172600,12,0.438,7.32,Vehicle,Graduate,Chennai Central,Approved,No Default,Medium Risk
+LOAN20743,CUST10743,28-04-2025,32,Salaried,1521600,487000,667,1,553900,12,0.703,12.69,Vehicle,Graduate,Delhi,Approved,No Default,High Risk
+LOAN20744,CUST10744,17-05-2025,38,Salaried,329500,182000,595,1,118500,36,0.55,12.89,Business,Graduate,Mumbai,Rejected,Not Applicable,High Risk
+LOAN20745,CUST10745,03-09-2024,43,Contract,555800,151000,732,1,310800,24,0.704,11.28,Vehicle,Graduate,Hyderabad,Rejected,Not Applicable,High Risk
+LOAN20746,CUST10746,11-07-2024,31,Self-Employed,415400,77000,754,1,170100,60,0.448,9.59,Medical,Graduate,Ahmedabad,Approved,No Default,Medium Risk
+LOAN20747,CUST10747,12-11-2023,40,Self-Employed,846000,144000,687,0,386500,72,0.488,12.19,Vehicle,Postgraduate,Bengaluru,Approved,No Default,Medium Risk
+LOAN20748,CUST10748,28-01-2024,30,Salaried,364800,221000,588,1,105200,36,0.509,13.37,Personal,Diploma,Hyderabad,Rejected,Not Applicable,High Risk
+LOAN20749,CUST10749,29-07-2025,32,Contract,362400,239000,747,1,137900,72,0.499,11.01,Home,Graduate,Kochi,Approved,No Default,Medium Risk
+LOAN20750,CUST10750,19-03-2024,24,Business Owner,679600,204000,770,2,221700,12,0.647,9.11,Personal,Graduate,Chennai Central,Rejected,Not Applicable,High Risk
+LOAN20751,CUST10751,29-10-2024,29,Salaried,905700,322000,746,0,487200,36,0.664,9.89,Business,Postgraduate,Pune,Approved,No Default,High Risk
+LOAN20752,CUST10752,21-01-2025,24,Business Owner,1216800,562000,689,4,177400,12,0.657,9.39,Medical,Graduate,Kochi,Rejected,Not Applicable,High Risk
+LOAN20753,CUST10753,14-05-2025,28,Self-Employed,356400,102000,643,1,28100,36,0.179,9.93,Medical,High School,Kolkata,Approved,No Default,High Risk
+LOAN20754,CUST10754,16-09-2023,49,Salaried,582100,197000,669,1,258400,72,0.506,11.05,Education,Postgraduate,Ahmedabad,Rejected,Not Applicable,Medium Risk
+LOAN20755,CUST10755,04-08-2025,29,Salaried,403300,50000,678,1,83100,24,0.274,10.34,Personal,Graduate,Hyderabad,Approved,No Default,Medium Risk
+LOAN20756,CUST10756,09-10-2024,64,Self-Employed,354200,109000,725,2,201200,60,0.634,10.16,Vehicle,Graduate,Delhi,Approved,No Default,High Risk
+LOAN20757,CUST10757,31-05-2025,43,Salaried,510900,162000,719,0,278100,48,0.628,11.26,Personal,Graduate,Chennai Central,Approved,No Default,High Risk
+LOAN20758,CUST10758,17-07-2023,40,Contract,381900,233000,574,1,86900,72,0.337,12.65,Home,Graduate,Hyderabad,Rejected,Not Applicable,High Risk
+LOAN20759,CUST10759,29-11-2024,29,Contract,1419300,387000,809,2,124800,24,0.229,7.08,Business,Graduate,Chennai Central,Rejected,Not Applicable,Low Risk
+LOAN20760,CUST10760,19-09-2024,45,Self-Employed,797700,188000,705,1,295200,36,0.451,9.45,Business,Graduate,Hyderabad,Approved,No Default,Medium Risk
+LOAN20761,CUST10761,20-03-2024,32,Salaried,292700,145000,687,1,107300,12,0.882,12.31,Vehicle,Diploma,Ahmedabad,Rejected,Not Applicable,High Risk
+LOAN20762,CUST10762,23-07-2024,39,Salaried,432400,229000,744,2,84500,48,0.334,9.12,Education,Graduate,Hyderabad,Approved,No Default,Medium Risk
+LOAN20763,CUST10763,04-08-2024,64,Self-Employed,1058000,570000,652,1,500000,36,0.666,11.54,Home,Graduate,Delhi,Rejected,Not Applicable,High Risk
+LOAN20764,CUST10764,27-08-2024,37,Self-Employed,1765800,526000,780,1,698500,72,0.451,8.65,Personal,Postgraduate,Mumbai,Rejected,Not Applicable,Medium Risk
+LOAN20765,CUST10765,10-01-2025,49,Salaried,264800,88000,618,1,79100,60,0.369,10.32,Education,Graduate,Mumbai,Rejected,Not Applicable,High Risk
+LOAN20766,CUST10766,26-06-2025,31,Self-Employed,262800,80000,550,1,51900,60,0.265,12.8,Business,Graduate,Kolkata,Approved,Default,High Risk
+LOAN20767,CUST10767,10-10-2024,38,Business Owner,1922100,999000,821,1,900000,60,0.584,9.21,Personal,Graduate,Hyderabad,Approved,No Default,Medium Risk
+LOAN20768,CUST10768,08-09-2024,56,Salaried,683600,211000,825,1,124800,24,0.355,7.71,Personal,Postgraduate,Pune,Approved,No Default,Low Risk
+LOAN20769,CUST10769,01-11-2023,32,Salaried,373700,122200,556,1,181100,48,0.579,14.02,Personal,High School,Mumbai,Rejected,Not Applicable,High Risk
+LOAN20770,CUST10770,05-12-2023,56,Business Owner,1012100,393000,712,4,318800,84,0.374,9.88,Home,Graduate,Chennai Central,Approved,No Default,Medium Risk
+LOAN20771,CUST10771,12-06-2024,45,Salaried,160000,110000,672,0,117300,60,0.876,13.8,Medical,Graduate,Delhi,Approved,No Default,High Risk
+LOAN20772,CUST10772,23-02-2023,32,Salaried,567900,215000,683,0,316300,72,0.625,10.27,Personal,Graduate,Kochi,Rejected,Not Applicable,High Risk
+LOAN20773,CUST10773,22-04-2023,44,Salaried,663600,136000,679,1,367600,60,0.598,11.43,Medical,Graduate,Chennai Central,Approved,No Default,Medium Risk
+LOAN20774,CUST10774,14-11-2024,48,Salaried,883600,115000,635,2,227100,24,0.329,11.71,Vehicle,Graduate,Chennai Central,Approved,No Default,High Risk
+LOAN20775,CUST10775,16-07-2025,44,Business Owner,481300,287000,676,4,72200,36,0.373,11.62,Personal,Diploma,Bengaluru,Approved,No Default,Medium Risk
+LOAN20776,CUST10776,23-02-2024,22,Self-Employed,675200,274000,635,1,279200,12,0.85,13.7,Home,Diploma,Coimbatore,Rejected,Not Applicable,High Risk
+LOAN20777,CUST10777,31-08-2025,31,Salaried,363600,220000,536,1,122800,36,0.552,12.83,Personal,Graduate,Coimbatore,Rejected,Not Applicable,High Risk
+LOAN20778,CUST10778,01-11-2023,36,Contract,500500,232000,710,0,61600,24,0.366,8.46,Personal,Postgraduate,Delhi,Approved,No Default,Medium Risk
+LOAN20779,CUST10779,13-03-2024,37,Contract,288100,114000,677,1,130500,48,0.555,11,Personal,Postgraduate,Mumbai,Approved,No Default,Medium Risk
+LOAN20780,CUST10780,17-10-2024,44,Contract,364000,236000,634,0,80300,60,0.36,11.42,Personal,Graduate,Ahmedabad,Rejected,Not Applicable,High Risk
+LOAN20781,CUST10781,26-03-2023,40,Salaried,351600,170000,668,1,0,72,0.087,10.18,Education,Graduate,Coimbatore,Rejected,Not Applicable,Medium Risk
+LOAN20782,CUST10782,07-06-2024,25,Salaried,775000,198000,755,1,39700,60,0.108,7.06,Medical,Graduate,Kochi,Approved,No Default,Low Risk
+LOAN20783,CUST10783,09-09-2023,42,Unemployed,309800,122000,604,2,167800,72,0.612,13.17,Medical,Graduate,Kochi,Rejected,Not Applicable,High Risk
+LOAN20784,CUST10784,28-12-2024,44,Business Owner,699600,373000,734,3,277500,12,0.99,9.71,Home,Graduate,Pune,Rejected,Not Applicable,High Risk
+LOAN20785,CUST10785,06-05-2023,44,Salaried,577500,72000,661,2,98300,12,0.306,9.83,Medical,Diploma,Mumbai,Approved,No Default,Medium Risk
+LOAN20786,CUST10786,01-09-2024,49,Salaried,282900,161000,721,2,75200,60,0.392,10.38,Education,Postgraduate,Ahmedabad,Approved,No Default,Medium Risk
+LOAN20787,CUST10787,22-06-2025,46,Salaried,491000,111000,686,1,153300,36,0.391,9.36,Personal,Graduate,Kolkata,Approved,No Default,Medium Risk
+LOAN20788,CUST10788,09-02-2024,43,Contract,432300,119000,649,2,158700,36,0.469,10.41,Vehicle,Graduate,Chennai Central,Rejected,Not Applicable,High Risk
+LOAN20789,CUST10789,31-10-2023,37,Self-Employed,2279900,1000000,761,1,203700,36,0.249,7.98,Medical,Diploma,Chennai Central,Rejected,Not Applicable,Low Risk
+LOAN20790,CUST10790,22-06-2025,21,Self-Employed,380000,159000,664,1,245400,36,0.792,12.46,Home,Postgraduate,Kolkata,Rejected,Not Applicable,High Risk
+LOAN20791,CUST10791,28-01-2023,42,Salaried,1145000,444000,686,4,158600,60,0.22,8.74,Vehicle,Diploma,Hyderabad,Rejected,Not Applicable,Medium Risk
+LOAN20792,CUST10792,27-04-2025,40,Self-Employed,1045600,354000,677,,699400,48,0.763,11.94,Vehicle,Graduate,Ahmedabad,Rejected,Not Applicable,High Risk
+LOAN20793,CUST10793,23-09-2023,41,Business Owner,895900,212000,658,1,158900,60,0.226,9.82,Vehicle,Graduate,Mumbai,Rejected,Not Applicable,Medium Risk
+LOAN20794,CUST10794,21-02-2023,25,Salaried,1318800,317000,690,1,668700,60,0.559,11.84,Personal,Postgraduate,Chennai Central,Approved,No Default,Medium Risk
+LOAN20795,CUST10795,16-10-2024,27,Business Owner,936100,570000,823,1,203600,36,0.432,7.63,Home,Diploma,Chennai Central,Approved,No Default,Medium Risk
+LOAN20796,CUST10796,05-10-2024,49,Unemployed,247300,129000,658,0,52800,36,0.403,10.89,Personal,Graduate,Bengaluru,Rejected,Not Applicable,Medium Risk
+LOAN20797,CUST10797,07-05-2025,38,Salaried,552700,235000,780,2,320400,36,0.736,10.14,Medical,Graduate,Bengaluru,Rejected,Not Applicable,High Risk
+LOAN20798,CUST10798,25-05-2024,45,Self-Employed,1165800,262000,656,2,647700,36,0.635,11.5,Business,Graduate,Delhi,Rejected,Not Applicable,High Risk
+LOAN20799,CUST10799,26-07-2023,38,Salaried,959700,78000,718,0,256000,60,0.284,9.93,Business,Diploma,Coimbatore,Approved,No Default,Medium Risk
+LOAN20800,CUST10800,22-09-2025,38,Business Owner,579900,93000,601,1,272400,60,0.506,13.09,Vehicle,High School,Kolkata,Rejected,Not Applicable,High Risk
+LOAN20801,CUST10801,18-09-2025,47,Self-Employed,344000,55000,606,1,146400,60,0.461,11.64,Vehicle,High School,Mumbai,Approved,No Default,High Risk
+LOAN20802,CUST10802,27-07-2024,33,Self-Employed,587800,237000,618,0,322100,36,0.697,13,Vehicle,High School,Delhi,Rejected,Not Applicable,High Risk
+LOAN20803,CUST10803,24-05-2025,39,Business Owner,533300,212000,736,0,72500,60,0.221,7.99,Home,Graduate,Delhi,Approved,Default,Medium Risk
+LOAN20804,CUST10804,25-05-2024,33,Salaried,550000,216000,653,0,232000,60,0.504,11.81,Medical,Graduate,Delhi,Rejected,Not Applicable,Medium Risk
+LOAN20805,CUST10805,24-09-2025,34,Contract,802000,188000,732,1,278400,48,0.41,9.75,Home,Graduate,Delhi,Approved,No Default,Medium Risk
+LOAN20806,CUST10806,05-10-2024,35,Self-Employed,520300,206000,695,0,127000,60,0.331,9.62,Business,Graduate,Chennai Central,Approved,No Default,Medium Risk
+LOAN20807,CUST10807,06-07-2024,40,Self-Employed,555500,50000,802,1,346300,48,0.647,9.52,Home,Diploma,Chennai Central,Approved,No Default,High Risk
+LOAN20808,CUST10808,20-07-2023,33,Business Owner,805100,205000,613,0,158500,60,0.251,11.54,Business,Diploma,Chennai Central,Approved,No Default,High Risk
+LOAN20809,CUST10809,02-09-2024,51,Business Owner,1176600,64000,799,5,94300,60,0.091,8.07,Home,Graduate,Chennai Central,Approved,No Default,Low Risk
+LOAN20810,CUST10810,02-04-2025,29,Salaried,192800,63000,703,3,87200,24,0.627,11.27,Home,Postgraduate,Coimbatore,Rejected,Not Applicable,High Risk
+LOAN20811,CUST10811,11-10-2023,36,Salaried,330900,110000,575,0,111400,60,0.41,13.1,Personal,Diploma,Bengaluru,Rejected,Not Applicable,High Risk
+LOAN20812,CUST10812,23-12-2023,34,Contract,490100,232000,699,3,94200,24,0.437,11.79,Education,Graduate,Ahmedabad,Rejected,Not Applicable,Medium Risk
+LOAN20813,CUST10813,16-02-2023,52,Salaried,1008700,329000,737,0,290100,24,0.465,8.87,Personal,Graduate,Kolkata,Approved,No Default,Medium Risk
+LOAN20814,CUST10814,17-05-2023,40,Unemployed,162000,50000,564,0,116000,84,0.765,14.95,Personal,Graduate,Kolkata,Rejected,Not Applicable,High Risk
+LOAN20815,CUST10815,10-05-2023,48,Salaried,230400,122000,598,1,33100,84,0.223,10.53,Home,Graduate,Kolkata,Rejected,Not Applicable,High Risk
+LOAN20816,CUST10816,14-07-2023,23,Salaried,763400,369000,655,0,297500,24,0.654,11.35,Medical,Postgraduate,Hyderabad,Rejected,Not Applicable,High Risk
+LOAN20817,CUST10817,20-09-2024,41,Salaried,418000,52000,774,1,195300,48,0.502,9.17,Vehicle,Graduate,Delhi,Approved,No Default,Medium Risk
+LOAN20818,CUST10818,30-12-2023,47,Contract,250200,106000,621,2,90000,36,0.517,11.47,Personal,Graduate,Bengaluru,Rejected,Not Applicable,High Risk
+LOAN20819,CUST10819,07-03-2024,39,Self-Employed,480200,181000,701,3,319500,48,0.764,10.89,Vehicle,High School,Kochi,Approved,No Default,High Risk
+LOAN20820,CUST10820,10-03-2023,49,Salaried,518900,50000,628,0,226000,60,0.456,11.57,Personal,Postgraduate,Ahmedabad,Approved,No Default,High Risk
+LOAN20821,CUST10821,02-04-2024,33,Salaried,424100,117000,619,0,163400,84,0.426,11.4,Education,Graduate,Ahmedabad,Rejected,Not Applicable,High Risk
+LOAN20822,CUST10822,23-06-2024,52,Self-Employed,224800,88000,693,3,71800,60,0.405,9.71,Education,High School,Mumbai,Rejected,Not Applicable,Medium Risk
+LOAN20823,CUST10823,01-12-2023,61,Salaried,872100,507000,631,1,415100,36,0.688,11.73,Personal,Graduate,Coimbatore,Rejected,Not Applicable,High Risk
+LOAN20824,CUST10824,09-06-2024,34,Contract,816500,305000,652,1,318200,60,0.471,12.39,Vehicle,Graduate,Chennai Central,Approved,No Default,Medium Risk
+LOAN20825,CUST10825,11-07-2024,34,Business Owner,1070500,378000,721,1,622500,36,0.706,9.99,Vehicle,Diploma,Chennai Central,Approved,No Default,High Risk
+LOAN20826,CUST10826,09-09-2025,53,Self-Employed,375300,50000,654,2,121400,72,0.347,10.58,Personal,Graduate,Coimbatore,Approved,No Default,Medium Risk
+LOAN20827,CUST10827,27-06-2025,54,Unemployed,186300,50000,569,1,12200,72,0.114,12.21,Personal,Diploma,Mumbai,Rejected,Not Applicable,High Risk
+LOAN20828,CUST10828,16-01-2023,33,Salaried,565200,56987,698,1,83800,60,0.248,10.18,Home,Graduate,Kolkata,Rejected,Not Applicable,Medium Risk
+LOAN20829,CUST10829,16-09-2025,34,Unemployed,273500,59000,626,0,24500,36,0.278,11.13,Vehicle,Graduate,Chennai Central,Rejected,Not Applicable,High Risk
+LOAN20830,CUST10830,24-07-2025,35,Self-Employed,893100,385000,738,2,127700,36,0.297,8.5,Vehicle,Graduate,Ahmedabad,Rejected,Not Applicable,Medium Risk
+LOAN20831,CUST10831,31-03-2024,25,Self-Employed,455500,311000,601,0,239000,12,1.2,15.07,Home,Graduate,Mumbai,Rejected,Not Applicable,High Risk
+LOAN20832,CUST10832,24-05-2024,29,Salaried,589800,154000,663,2,320600,60,0.599,10.66,Education,Postgraduate,Kochi,Rejected,Not Applicable,Medium Risk
+LOAN20833,CUST10833,28-07-2023,28,Contract,551500,188000,715,0,296300,48,0.627,10.51,Home,Postgraduate,Kochi,Rejected,Not Applicable,High Risk
+LOAN20834,CUST10834,07-06-2023,30,Salaried,1140400,181000,780,0,475200,36,0.472,8.71,Medical,High School,Ahmedabad,Approved,No Default,Medium Risk
+LOAN20835,CUST10835,03-12-2023,38,Salaried,795100,314000,622,1,437400,48,0.653,12.35,Personal,Diploma,Hyderabad,Rejected,Not Applicable,High Risk
+LOAN20836,CUST10836,08-01-2025,40,Salaried,828100,111000,721,1,262700,60,0.346,8.87,Home,Graduate,Kolkata,Rejected,Not Applicable,Medium Risk
+LOAN20837,CUST10837,18-08-2025,54,Self-Employed,674600,275000,568,2,384300,24,0.78,12.64,Home,Diploma,Bengaluru,Rejected,Not Applicable,High Risk
+LOAN20838,CUST10838,29-08-2023,28,Self-Employed,1275300,308000,737,1,303600,72,0.28,9.96,Personal,Postgraduate,Chennai Central,Approved,No Default,Medium Risk
+LOAN20839,CUST10839,27-02-2023,48,Business Owner,953200,385000,813,0,575800,72,0.678,10,Vehicle,Postgraduate,Mumbai,Approved,No Default,High Risk
+LOAN20840,CUST10840,10-09-2025,36,Contract,292900,50000,572,1,174800,84,0.623,13.99,Business,Diploma,Kochi,Rejected,Not Applicable,High Risk
+LOAN20841,CUST10841,26-03-2025,38,Salaried,1112100,276000,683,2,211900,36,0.281,10.23,Business,Postgraduate,Mumbai,Approved,No Default,Medium Risk
+LOAN20842,CUST10842,01-11-2023,45,Business Owner,1094600,434000,764,1,419200,36,0.528,9.59,Personal,Graduate,Kochi,Rejected,Not Applicable,Medium Risk
+LOAN20843,CUST10843,11-12-2023,27,Salaried,458400,50000,581,3,127000,36,0.316,11.35,Home,Postgraduate,Coimbatore,Rejected,Not Applicable,High Risk
+LOAN20844,CUST10844,03-10-2024,42,Contract,351800,201000,595,1,56000,36,0.372,11.41,Business,Graduate,Bengaluru,Rejected,Not Applicable,High Risk
+LOAN20845,CUST10845,29-12-2024,40,Business Owner,902800,206000,736,1,372000,36,0.491,10.98,Medical,Graduate,Kolkata,Approved,No Default,Medium Risk
+LOAN20846,CUST10846,14-01-2023,43,Self-Employed,809300,399000,654,0,194900,60,0.349,12.07,Personal,Postgraduate,Chennai Central,Rejected,Not Applicable,Medium Risk
+LOAN20847,CUST10847,25-12-2023,41,Business Owner,860800,191000,686,2,64700,48,0.137,9.15,Personal,Graduate,Ahmedabad,Approved,No Default,Medium Risk
+LOAN20848,CUST10848,12-01-2024,63,Salaried,658400,302000,726,3,400400,72,0.693,10.81,Vehicle,Graduate,Hyderabad,Rejected,Not Applicable,High Risk
+LOAN20849,CUST10849,31-08-2023,32,Salaried,1282200,318000,768,0,570200,12,0.704,10.68,Vehicle,Graduate,Delhi,Rejected,Not Applicable,High Risk
+LOAN20850,CUST10850,19-09-2025,33,Business Owner,1309600,571000,757,0,753800,60,0.668,10.22,Personal,Postgraduate,Mumbai,Rejected,Not Applicable,High Risk
+LOAN20851,CUST10851,25-05-2023,32,Salaried,621300,162000,663,2,291000,60,0.523,11.39,Business,Graduate,Bengaluru,Approved,No Default,Medium Risk
+LOAN20852,CUST10852,09-06-2025,32,Salaried,890900,507000,728,1,240700,60,0.394,9.52,Personal,Postgraduate,Hyderabad,Rejected,Not Applicable,Medium Risk
+LOAN20853,CUST10853,19-02-2024,32,Self-Employed,394800,160000,643,2,169300,72,0.503,10.79,Business,Graduate,Bengaluru,Approved,No Default,High Risk
+LOAN20854,CUST10854,29-01-2024,50,Business Owner,947800,161000,733,0,448600,60,0.509,9.64,Home,Graduate,Bengaluru,Approved,No Default,Medium Risk
+LOAN20855,CUST10855,17-04-2025,52,Salaried,1351300,503000,724,2,850900,72,0.697,10.75,Education,Graduate,Bengaluru,Approved,No Default,High Risk
+LOAN20856,CUST10856,06-09-2024,32,Salaried,510700,50000,661,2,141200,36,0.312,8.43,Vehicle,Postgraduate,Delhi,Approved,No Default,Medium Risk
+LOAN20857,CUST10857,29-12-2024,30,Business Owner,521300,157000,612,0,310200,60,0.659,12.79,Home,Graduate,Kochi,Rejected,Not Applicable,High Risk
+LOAN20858,CUST10858,24-12-2023,43,Business Owner,572600,150000,670,0,378700,12,0.951,14.7,Personal,High School,Delhi,Rejected,Not Applicable,High Risk
+LOAN20859,CUST10859,21-07-2025,32,Salaried,336100,138000,609,1,167200,12,0.949,13.59,Education,High School,Ahmedabad,Rejected,Not Applicable,High Risk
+LOAN20860,CUST10860,29-07-2024,44,Salaried,389000,194000,598,1,190800,36,0.663,13.01,Business,Diploma,Pune,Rejected,Not Applicable,High Risk
+LOAN20861,CUST10861,07-06-2023,40,Salaried,474600,91000,681,1,169700,24,0.462,10.02,Business,High School,Pune,Approved,No Default,Medium Risk
+LOAN20862,CUST10862,04-11-2024,23,Salaried,288800,165000,661,0,183000,36,0.834,11.66,Vehicle,Graduate,Pune,Rejected,Not Applicable,High Risk
+LOAN20863,CUST10863,18-01-2023,53,Salaried,571300,50000,719,2,268200,36,0.501,9.91,Home,Postgraduate,Mumbai,Rejected,Not Applicable,Medium Risk
+LOAN20864,CUST10864,28-12-2024,56,Business Owner,1207400,578000,709,0,97800,12,0.615,11.3,Personal,Postgraduate,Pune,Rejected,Not Applicable,High Risk
+LOAN20865,CUST10865,10-04-2025,32,Self-Employed,419100,175000,674,2,240400,72,0.651,11.38,Medical,Postgraduate,Chennai Central,Rejected,Not Applicable,High Risk
+LOAN20866,CUST10866,14-07-2024,34,Self-Employed,1343700,485000,771,1,463500,12,0.73,9.84,Personal,Diploma,Ahmedabad,Approved,No Default,High Risk
+LOAN20867,CUST10867,21-07-2024,41,Salaried,724500,300000,716,0,221500,60,0.393,10.18,Home,Postgraduate,Kochi,Rejected,Not Applicable,Medium Risk
+LOAN20868,CUST10868,13-12-2023,41,Contract,726200,185000,621,2,315000,24,0.568,12.35,Home,High School,Bengaluru,Rejected,Not Applicable,High Risk
+LOAN20869,CUST10869,27-02-2023,45,Salaried,413500,67600,669,2,54900,72,0.161,9.93,Vehicle,Graduate,Coimbatore,Approved,No Default,Medium Risk
+LOAN20870,CUST10870,04-06-2023,58,Unemployed,309300,50000,611,0,93000,72,0.329,12.37,Home,Diploma,Chennai Central,Rejected,Not Applicable,High Risk
+LOAN20871,CUST10871,20-07-2024,36,Self-Employed,383700,91000,649,1,187400,60,0.54,12.43,Business,Postgraduate,Bengaluru,Approved,No Default,High Risk
+LOAN20872,CUST10872,01-05-2024,30,Salaried,869300,398000,590,1,58300,60,0.161,12.32,Business,Postgraduate,Chennai Central,Rejected,Not Applicable,High Risk
+LOAN20873,CUST10873,02-05-2025,24,Self-Employed,703700,361000,688,1,155100,12,0.764,10.8,Education,Graduate,Kochi,Approved,No Default,High Risk
+LOAN20874,CUST10874,14-06-2024,31,Salaried,739500,239000,814,0,47800,84,0.113,7.59,Vehicle,Diploma,Coimbatore,Approved,No Default,Low Risk
+LOAN20875,CUST10875,01-05-2024,38,Business Owner,445300,172000,639,4,107700,72,0.314,12.17,Education,Diploma,Kochi,Approved,No Default,High Risk
+LOAN20876,CUST10876,31-05-2023,56,Salaried,369000,50000,617,2,139700,72,0.403,10.3,Business,Graduate,Chennai Central,Rejected,Not Applicable,High Risk
+LOAN20877,CUST10877,25-12-2023,33,Salaried,755200,279000,715,0,415300,60,0.628,10.73,Vehicle,Postgraduate,Delhi,Rejected,Not Applicable,High Risk
+LOAN20878,CUST10878,03-01-2024,40,Contract,280900,50000,641,1,210500,36,0.811,12.37,Personal,Graduate,Coimbatore,Approved,Default,High Risk
+LOAN20879,CUST10879,11-09-2024,38,Salaried,708200,254000,755,0,268300,72,0.443,9.26,Vehicle,High School,Bengaluru,Approved,No Default,Medium Risk
+LOAN20880,CUST10880,16-02-2023,50,Contract,229700,94000,549,0,86300,36,0.519,14.21,Personal,Graduate,Pune,Rejected,Not Applicable,High Risk
+LOAN20881,CUST10881,26-07-2023,63,Salaried,851900,179000,744,2,522100,60,0.658,9.22,Vehicle,Graduate,Chennai Central,Approved,No Default,High Risk
+LOAN20882,CUST10882,24-05-2025,33,Self-Employed,358600,194000,678,0,184600,24,0.814,12.35,Vehicle,Graduate,Bengaluru,Rejected,Not Applicable,High Risk
+LOAN20883,CUST10883,25-03-2024,33,Business Owner,1020700,199000,707,3,392900,72,0.42,9.6,Personal,Postgraduate,Mumbai,Approved,No Default,Medium Risk
+LOAN20884,CUST10884,27-04-2024,48,Self-Employed,875000,276000,714,1,374300,24,0.599,11.59,Personal,Graduate,Pune,Approved,No Default,Medium Risk
+LOAN20885,CUST10885,04-08-2025,45,Salaried,405800,198000,717,0,270000,36,0.841,11.89,Education,Postgraduate,Bengaluru,Rejected,Not Applicable,High Risk
+LOAN20886,CUST10886,01-05-2025,56,Salaried,749700,139000,742,2,338500,60,0.493,9.59,Home,High School,Bengaluru,Approved,No Default,Medium Risk
+LOAN20887,CUST10887,12-07-2025,44,Salaried,642500,283000,620,0,154600,60,0.339,10.72,Vehicle,Diploma,Bengaluru,Approved,No Default,High Risk
+LOAN20888,CUST10888,01-10-2024,34,Salaried,437800,157000,709,1,234000,60,0.612,12.91,Vehicle,Graduate,Bengaluru,Rejected,Not Applicable,High Risk
+LOAN20889,CUST10889,27-11-2024,44,Self-Employed,399300,131000,646,2,0,36,0.116,10.16,Personal,High School,Bengaluru,Rejected,Not Applicable,High Risk
+LOAN20890,CUST10890,23-07-2024,49,Contract,172600,55000,617,2,10600,12,0.403,10.47,Business,Postgraduate,Mumbai,Approved,No Default,High Risk
+LOAN20891,CUST10891,23-05-2023,46,Contract,523700,252000,651,0,153400,60,0.394,10.31,Home,Graduate,Pune,Rejected,Not Applicable,Medium Risk
+LOAN20892,CUST10892,04-02-2024,43,Business Owner,369500,50000,644,1,62800,84,0.191,10.6,Education,Graduate,Mumbai,Rejected,Not Applicable,High Risk
+LOAN20893,CUST10893,07-04-2023,49,Business Owner,819700,157000,761,1,64500,60,0.12,7.3,Home,Graduate,Kochi,Approved,No Default,Low Risk
+LOAN20894,CUST10894,16-02-2023,50,Self-Employed,571000,131000,662,1,66700,48,0.176,9.4,Vehicle,Diploma,Coimbatore,Approved,No Default,Medium Risk
+LOAN20895,CUST10895,10-07-2023,52,Salaried,785500,174000,635,2,411100,72,0.562,12.71,Vehicle,Graduate,Chennai Central,Approved,No Default,High Risk
+LOAN20896,CUST10896,20-05-2023,44,Contract,383000,50000,612,1,197800,48,0.551,13.01,Personal,Graduate,Chennai Central,Rejected,Not Applicable,High Risk
+LOAN20897,CUST10897,06-09-2024,36,Self-Employed,553200,302000,675,2,349900,60,0.754,11.51,Education,Postgraduate,Ahmedabad,Rejected,Not Applicable,High Risk
+LOAN20898,CUST10898,19-08-2023,39,Self-Employed,920800,267000,768,2,217500,48,0.315,9.47,Personal,Postgraduate,Chennai Central,Approved,No Default,Low Risk
+LOAN20899,CUST10899,27-07-2025,50,Salaried,665900,123000,719,1,275900,48,0.465,9.45,Business,Diploma,Bengaluru,Approved,No Default,Medium Risk
+LOAN20900,CUST10900,06-12-2023,30,Salaried,659900,175000,638,2,419400,60,0.692,13.74,Business,Postgraduate,Chennai Central,Rejected,Not Applicable,High Risk
+LOAN20901,CUST10901,13-07-2025,42,Salaried,710200,301000,826,1,136800,60,0.284,7.8,Medical,Graduate,Pune,Approved,No Default,Low Risk
+LOAN20902,CUST10902,05-05-2024,34,Contract,211900,94000,631,3,64600,36,0.463,11.83,Personal,Diploma,Delhi,Rejected,Not Applicable,High Risk
+LOAN20903,CUST10903,18-02-2023,38,Self-Employed,931800,244000,771,1,462500,36,0.591,9.28,Business,Graduate,Kolkata,Rejected,Not Applicable,Medium Risk
+LOAN20904,CUST10904,17-06-2025,51,Salaried,760800,103000,686,0,89800,12,0.258,9.3,Education,Postgraduate,Ahmedabad,Approved,No Default,Medium Risk
+LOAN20905,CUST10905,15-09-2024,40,Unemployed,126000,50000,603,3,86100,60,0.769,11.46,Home,Postgraduate,Mumbai,Rejected,Not Applicable,High Risk
+LOAN20906,CUST10906,28-03-2024,38,Salaried,504300,99000,716,0,271400,36,0.607,10.41,Home,Graduate,Mumbai,Approved,No Default,High Risk
+LOAN20907,CUST10907,12-11-2023,24,Salaried,556400,59000,742,0,52500,24,0.151,8.34,Personal,High School,Hyderabad,Rejected,Not Applicable,Medium Risk
+LOAN20908,CUST10908,18-11-2023,45,Salaried,531600,132000,731,0,35400,60,0.122,6.97,Medical,Graduate,Bengaluru,Approved,No Default,Medium Risk
+LOAN20909,CUST10909,28-03-2023,44,Business Owner,919100,175000,753,1,112000,60,0.162,8.85,Home,Graduate,Bengaluru,Approved,No Default,Low Risk
+LOAN20910,CUST10910,12-06-2025,60,Contract,76556,369000,664,0,245600,60,0.368,10.49,Personal,High School,Bengaluru,Approved,Default,Medium Risk
+LOAN20911,CUST10911,18-04-2024,35,Salaried,953000,57000,682,1,305200,60,0.333,11.13,Personal,Postgraduate,Chennai Central,Approved,No Default,Medium Risk
+LOAN20912,CUST10912,09-10-2023,40,Contract,235900,143000,637,1,60300,72,0.368,10.56,Business,Postgraduate,Bengaluru,Approved,No Default,High Risk
+LOAN20913,CUST10913,18-04-2025,40,Salaried,764300,391000,746,1,134800,72,0.267,9.73,Personal,Graduate,Hyderabad,Rejected,Not Applicable,Medium Risk
+LOAN20914,CUST10914,02-02-2025,54,Contract,838000,221000,665,3,517200,60,0.675,11.47,Medical,Diploma,Kolkata,Rejected,Not Applicable,High Risk
+LOAN20915,CUST10915,15-03-2023,37,Business Owner,942700,272000,766,1,223300,60,0.301,8.47,Vehicle,Graduate,Delhi,Approved,No Default,Low Risk
+LOAN20916,CUST10916,28-03-2024,41,Business Owner,1321900,399000,824,0,93900,36,0.177,7.15,Vehicle,Graduate,Kolkata,Approved,No Default,Low Risk
+LOAN20917,CUST10917,16-02-2023,44,Salaried,1489600,472000,715,2,354200,84,0.286,9.34,Personal,Graduate,Mumbai,Rejected,Not Applicable,Medium Risk
+LOAN20918,CUST10918,10-08-2024,40,Unemployed,335400,50000,548,0,122000,36,0.417,13.15,Vehicle,Graduate,Mumbai,Rejected,Not Applicable,High Risk
+LOAN20919,CUST10919,06-04-2023,34,Business Owner,882500,346000,694,1,266800,36,0.447,8.86,Home,Postgraduate,Hyderabad,Approved,No Default,Medium Risk
+LOAN20920,CUST10920,26-07-2025,40,Salaried,936400,420000,729,0,174000,48,0.302,9.07,Personal,Graduate,Bengaluru,Approved,No Default,Medium Risk
+LOAN20921,CUST10921,31-01-2023,49,Business Owner,839400,476000,668,2,123000,12,0.746,12,Personal,Graduate,Bengaluru,Rejected,Not Applicable,High Risk
+LOAN20922,CUST10922,17-06-2024,28,Salaried,573500,189000,751,2,295200,84,0.566,8.26,Personal,Graduate,Kolkata,Rejected,Not Applicable,Medium Risk
+LOAN20923,CUST10923,17-01-2023,39,Contract,374100,91000,656,2,234200,60,0.679,12.52,Vehicle,Postgraduate,Kolkata,Approved,No Default,High Risk
+LOAN20924,CUST10924,31-07-2023,31,Salaried,1200900,226000,739,1,303400,60,0.293,8.24,Vehicle,Diploma,Chennai Central,Approved,No Default,Medium Risk
+LOAN20925,CUST10925,21-10-2024,50,Business Owner,528600,90000,588,0,150000,60,0.32,12.55,Vehicle,Graduate,Bengaluru,Rejected,Not Applicable,High Risk
+LOAN20926,CUST10926,23-08-2023,23,Self-Employed,1352100,299000,669,0,569600,48,0.479,11.04,Home,Postgraduate,Mumbai,Approved,No Default,Medium Risk
+LOAN20927,CUST10927,27-01-2024,32,Salaried,720800,209000,706,1,328000,12,0.765,10.99,Personal,Graduate,Bengaluru,Rejected,Not Applicable,High Risk
+LOAN20928,CUST10928,20-12-2023,42,Salaried,289700,105000,532,2,75100,60,0.337,13.68,Home,Postgraduate,Mumbai,Approved,No Default,High Risk
+LOAN20929,CUST10929,01-11-2023,54,Salaried,676400,84000,742,1,401100,60,0.621,11.56,Home,Graduate,Chennai Central,Rejected,Not Applicable,High Risk
+LOAN20930,CUST10930,21-08-2024,37,Salaried,206900,50000,633,2,45500,48,0.284,10.87,Personal,Graduate,Mumbai,Rejected,Not Applicable,High Risk
+LOAN20931,CUST10931,03-07-2024,32,Salaried,765600,305000,850,0,233600,60,0.393,8.47,Home,Postgraduate,Hyderabad,Approved,No Default,Low Risk
+LOAN20932,CUST10932,18-07-2024,57,Self-Employed,991100,411000,834,3,443800,36,0.598,8.34,Medical,Diploma,Hyderabad,Approved,No Default,Medium Risk
+LOAN20933,CUST10933,23-06-2024,24,Salaried,426700,149000,653,1,233300,36,0.667,12.78,Vehicle,Graduate,Chennai Central,Approved,Default,High Risk
+LOAN20934,CUST10934,11-08-2024,21,Salaried,601600,876490,673,0,345800,36,0.714,11.55,Medical,Postgraduate,Mumbai,Rejected,Not Applicable,High Risk
+LOAN20935,CUST10935,13-07-2025,42,Business Owner,2000500,692000,850,2,179800,36,0.209,8.1,Home,Postgraduate,Kolkata,Approved,No Default,Low Risk
+LOAN20936,CUST10936,23-05-2024,33,Salaried,444800,132000,758,1,79800,72,0.235,9.26,Personal,High School,Hyderabad,Approved,No Default,Low Risk
+LOAN20937,CUST10937,12-12-2024,28,Contract,266400,135000,532,1,122500,60,0.572,14.19,Vehicle,Graduate,Ahmedabad,Rejected,Not Applicable,High Risk
+LOAN20938,CUST10938,30-01-2024,45,Contract,901700,283000,585,1,211700,36,0.345,9.92,Business,Graduate,Ahmedabad,Rejected,Not Applicable,High Risk
+LOAN20939,CUST10939,06-03-2024,40,Self-Employed,1662300,840000,737,1,791900,60,0.583,10.52,Vehicle,Diploma,Kolkata,Rejected,Not Applicable,Medium Risk
+LOAN20940,CUST10940,15-11-2024,32,Self-Employed,649200,251000,706,1,341900,60,0.609,9.84,Education,Graduate,Kochi,Rejected,Not Applicable,High Risk
+LOAN20941,CUST10941,24-02-2025,25,Contract,719500,320000,693,4,374800,36,0.678,11.62,Business,Graduate,Pune,Rejected,Not Applicable,High Risk
+LOAN20942,CUST10942,15-07-2024,47,Salaried,1079500,347000,784,2,704900,36,0.767,11.08,Vehicle,Graduate,Ahmedabad,Approved,No Default,High Risk
+LOAN20943,CUST10943,06-05-2025,45,Salaried,397000,59000,594,1,64400,84,0.185,11.7,Home,Diploma,Chennai Central,Rejected,Not Applicable,High Risk
+LOAN20944,CUST10944,26-06-2023,37,Salaried,449200,87000,537,1,229200,60,0.552,14.33,Vehicle,Graduate,Mumbai,Rejected,Not Applicable,High Risk
+LOAN20945,CUST10945,10-02-2024,56,Business Owner,1413700,423000,800,2,684400,84,0.529,8.52,Personal,Diploma,Kolkata,Approved,No Default,Medium Risk
+LOAN20946,CUST10946,28-10-2023,27,Salaried,1273000,553000,698,1,345000,36,0.431,9.04,Education,Graduate,Coimbatore,Approved,No Default,Medium Risk
+LOAN20947,CUST10947,20-03-2024,23,Self-Employed,849000,450000,582,0,430700,60,0.624,12.5,Vehicle,Graduate,Kolkata,Rejected,Not Applicable,High Risk
+LOAN20948,CUST10948,08-01-2025,31,Unemployed,134500,50000,582,0,31400,36,0.366,11.83,Home,Graduate,Kochi,Rejected,Not Applicable,High Risk
+LOAN20949,CUST10949,07-05-2023,38,Contract,1149300,362000,751,1,598800,36,0.637,10.12,Personal,Graduate,Ahmedabad,Approved,No Default,High Risk
+LOAN20950,CUST10950,15-12-2023,40,Self-Employed,502200,115000,653,2,156600,60,0.36,11.8,Personal,Postgraduate,Coimbatore,Rejected,Not Applicable,Medium Risk
+LOAN20951,CUST10951,21-01-2023,36,Salaried,482700,159000,643,0,91700,36,0.303,11.32,Vehicle,Postgraduate,Coimbatore,Rejected,Not Applicable,High Risk
+LOAN20952,CUST10952,11-12-2024,42,Contract,521900,97000,638,1,260300,36,0.566,13.66,Vehicle,Graduate,Delhi,Rejected,Not Applicable,High Risk
+LOAN20953,CUST10953,01-12-2024,25,Self-Employed,1366300,75670,723,0,582200,36,0.5,9.28,Home,Graduate,Kolkata,Approved,No Default,Medium Risk
+LOAN20954,CUST10954,23-04-2025,52,Salaried,854300,128000,630,0,153700,12,0.342,12.06,Education,Postgraduate,Kochi,Rejected,Not Applicable,High Risk
+LOAN20955,CUST10955,24-02-2024,37,Salaried,691900,102000,649,2,20300,60,0.062,10.37,Home,Diploma,Ahmedabad,Approved,No Default,High Risk
+LOAN20956,CUST10956,01-06-2023,49,Contract,553100,148000,678,0,180000,48,0.4,10.4,Vehicle,Postgraduate,Pune,Rejected,Not Applicable,Medium Risk
+LOAN20957,CUST10957,09-06-2023,41,Self-Employed,661700,50000,693,3,247800,24,0.416,9.52,Vehicle,Diploma,Hyderabad,Approved,No Default,Medium Risk
+LOAN20958,CUST10958,08-05-2025,43,Business Owner,1023600,505000,724,3,615700,36,0.782,10.7,Medical,Graduate,Chennai Central,Rejected,Not Applicable,High Risk
+LOAN20959,CUST10959,24-04-2024,44,Contract,131500,50000,554,1,99200,24,0.952,14.4,Home,Diploma,Kolkata,Rejected,Not Applicable,High Risk
+LOAN20960,CUST10960,18-03-2024,42,Self-Employed,562000,201000,656,0,194000,60,0.42,12.34,Personal,Graduate,Delhi,Rejected,Not Applicable,Medium Risk
+LOAN20961,CUST10961,06-04-2023,44,Self-Employed,727600,156000,562,1,362300,24,0.615,14.11,Vehicle,Graduate,Hyderabad,Rejected,Not Applicable,High Risk
+LOAN20962,CUST10962,18-12-2023,51,Salaried,326300,89000,663,1,88500,60,0.33,11.18,Vehicle,Diploma,Bengaluru,Approved,No Default,Medium Risk
+LOAN20963,CUST10963,12-09-2025,40,Salaried,682500,183000,766,3,304200,12,0.733,10.31,Business,High School,Kochi,Approved,No Default,High Risk
+LOAN20964,CUST10964,16-03-2023,45,Salaried,514000,113000,590,1,67400,36,0.209,11.13,Education,Postgraduate,Kochi,Rejected,Not Applicable,High Risk
+LOAN20965,CUST10965,27-05-2025,37,Business Owner,1818500,912000,759,0,500700,72,0.366,9.17,Home,Graduate,Kochi,Approved,No Default,Low Risk
+LOAN20966,CUST10966,16-08-2024,52,Self-Employed,1378800,199000,762,2,601800,60,0.467,9.33,Personal,Graduate,Pune,Approved,No Default,Medium Risk
+LOAN20967,CUST10967,01-10-2024,31,Contract,354100,208000,699,0,25300,24,0.391,10,Vehicle,Graduate,Mumbai,Approved,No Default,Medium Risk
+LOAN20968,CUST10968,25-12-2023,56,Salaried,527400,260000,648,0,247400,60,0.572,12.02,Home,Diploma,Hyderabad,Approved,No Default,High Risk
+LOAN20969,CUST10969,13-05-2023,38,Self-Employed,625400,308000,634,1,368100,48,0.716,11.7,Education,Graduate,Chennai Central,Rejected,Not Applicable,High Risk
+LOAN20970,CUST10970,04-02-2024,24,Self-Employed,521700,111000,553,0,152600,72,0.33,12.68,Education,Diploma,Kochi,Rejected,Not Applicable,High Risk
+LOAN20971,CUST10971,19-05-2023,39,Self-Employed,711600,292000,686,1,244400,60,0.43,10.38,Personal,Graduate,Chennai Central,Approved,No Default,Medium Risk
+LOAN20972,CUST10972,03-09-2023,31,Business Owner,544100,159000,781,0,260800,60,0.544,8.65,Home,Diploma,Pune,Approved,No Default,Medium Risk
+LOAN20973,CUST10973,18-10-2023,46,Salaried,329500,172000,668,0,71800,84,0.295,10.77,Vehicle,High School,Delhi,Approved,No Default,Medium Risk
+LOAN20974,CUST10974,22-04-2023,31,Self-Employed,873700,79000,694,3,201800,36,0.262,11.09,Vehicle,Graduate,Delhi,Rejected,Not Applicable,Medium Risk
+LOAN20975,CUST10975,15-12-2024,34,Salaried,767000,50000,713,0,151800,60,0.212,10.14,Vehicle,Graduate,Kolkata,Rejected,Not Applicable,Medium Risk
+LOAN20976,CUST10976,19-06-2023,21,Salaried,385400,130000,658,1,170900,48,0.534,11.17,Medical,Diploma,Chennai Central,Approved,No Default,Medium Risk
+LOAN20977,CUST10977,21-08-2024,33,Self-Employed,995900,369000,663,2,378800,12,0.764,12.75,Home,Graduate,Kochi,Rejected,Not Applicable,High Risk
+LOAN20978,CUST10978,22-09-2024,21,Self-Employed,478500,315000,703,2,110200,12,0.909,12.76,Medical,Postgraduate,Chennai Central,Approved,No Default,High Risk
+LOAN20979,CUST10979,01-09-2024,22,Unemployed,231700,50000,596,1,64700,24,0.4,12.07,Personal,Postgraduate,Chennai Central,Rejected,Not Applicable,High Risk
+LOAN20980,CUST10980,28-08-2023,46,Self-Employed,960700,513000,705,1,570900,60,0.711,11.23,Business,Graduate,Mumbai,Rejected,Not Applicable,High Risk
+LOAN20981,CUST10981,03-12-2023,46,Business Owner,770500,280000,637,3,377600,60,0.567,12.18,Vehicle,Diploma,Chennai Central,Rejected,Not Applicable,High Risk
+LOAN20982,CUST10982,18-05-2023,42,Self-Employed,806100,214000,761,1,526400,60,0.71,12.25,Vehicle,Graduate,Kochi,Rejected,Not Applicable,High Risk
+LOAN20983,CUST10983,16-08-2024,28,Self-Employed,505700,65000,697,1,246600,12,0.623,11.25,Business,High School,Delhi,Approved,No Default,High Risk
+LOAN20984,CUST10984,24-08-2023,38,Salaried,516000,130000,641,0,344200,48,0.734,11.48,Business,Graduate,Chennai Central,Approved,No Default,High Risk
+LOAN20985,CUST10985,09-10-2024,38,Salaried,513700,96000,726,0,64600,72,0.16,7.83,Education,Postgraduate,Chennai Central,Rejected,Not Applicable,Medium Risk
+LOAN20986,CUST10986,04-03-2025,26,Salaried,396200,162000,632,1,211300,36,0.685,12.33,Home,Graduate,Pune,Rejected,Not Applicable,High Risk
+LOAN20987,CUST10987,03-01-2023,53,Salaried,520900,212000,629,1,0,60,0.085,9.12,Vehicle,Graduate,Kochi,Approved,No Default,High Risk
+LOAN20988,CUST10988,24-07-2024,47,Salaried,269600,161000,606,1,127100,60,0.603,12.5,Business,Graduate,Mumbai,Rejected,Not Applicable,High Risk
+LOAN20989,CUST10989,26-04-2023,36,Salaried,447900,93000,567,2,153300,60,0.385,14.22,Vehicle,Postgraduate,Delhi,Rejected,Not Applicable,High Risk
+LOAN20990,CUST10990,16-04-2024,38,Salaried,494500,153000,695,1,169500,60,0.408,9.81,Personal,Postgraduate,Kochi,Rejected,Not Applicable,Medium Risk
+LOAN20991,CUST10991,11-05-2023,40,Unemployed,181500,132000,478,1,63900,72,0.477,13.54,Personal,Diploma,Pune,Rejected,Not Applicable,High Risk
+LOAN20992,CUST10992,22-07-2025,21,Salaried,504900,53000,602,2,269000,36,0.569,12.37,Personal,Graduate,Bengaluru,Rejected,Not Applicable,High Risk
+LOAN20993,CUST10993,16-06-2025,36,Self-Employed,629100,135000,558,2,60400,72,0.136,11.52,Personal,Postgraduate,Pune,Approved,No Default,High Risk
+LOAN20994,CUST10994,27-04-2024,31,Salaried,713700,513000,685,0,305100,36,0.684,10.72,Vehicle,Postgraduate,Pune,Rejected,Not Applicable,High Risk
+LOAN20995,CUST10995,05-02-2024,28,Self-Employed,986000,362000,698,0,271400,36,0.402,9.15,Medical,Graduate,Coimbatore,Approved,No Default,Medium Risk
+LOAN20996,CUST10996,20-07-2023,35,Salaried,415100,50000,643,1,100400,12,0.376,12.12,Personal,Graduate,Pune,Approved,No Default,High Risk
+LOAN20997,CUST10997,19-10-2023,56,Self-Employed,318200,72000,595,0,160000,60,0.553,13,Personal,Graduate,Kolkata,Rejected,Not Applicable,High Risk
+LOAN20998,CUST10998,08-12-2023,44,Self-Employed,393000,180000,585,0,123800,48,0.441,11.95,Vehicle,Graduate,Bengaluru,Rejected,Not Applicable,High Risk
+LOAN20999,CUST10999,17-09-2025,32,Salaried,448800,70000,690,1,275100,36,0.671,10.44,Personal,Graduate,Kolkata,Approved,No Default,High Risk
+LOAN21000,CUST11000,01-09-2024,44,Salaried,478900,295000,637,0,84900,36,0.393,10.79,Education,Postgraduate,Delhi,Rejected,Not Applicable,High Risk
